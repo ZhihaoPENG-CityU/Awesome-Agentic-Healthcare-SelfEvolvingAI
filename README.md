@@ -41,6 +41,8 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 
 ### 2026
 
+- (arXiv'26) **Skill-Evolving Grounded Reasoning for Free-Text Promptable 3D Medical Image Segmentation** [[📝 Paper](https://arxiv.org/abs/2603.08215)]
+
 - (*arXiv'26*) **OpenHospital: A Thing-in-itself Arena for Evolving and Benchmarking LLM-based Collective Intelligence**
   [[📝 Paper](https://arxiv.org/abs/2603.14771)] [[💻 Code](https://github.com/ZJU-LLMs/Agent-Kernel/tree/main/demo/OpenHospital)]
 
