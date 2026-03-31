@@ -50,6 +50,18 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 
 ### 2026
 
+- (*arXiv'26*) **AIRA_2: Overcoming Bottlenecks in AI Research Agents**
+  [[📝 Paper](https://arxiv.org/pdf/2603.26499)]
+
+- (*arXiv'26*) **UI-Voyager: A Self-Evolving GUI Agent Learning via Failed Experience**
+  [[📝 Paper](https://arxiv.org/pdf/2603.24533v1)]
+
+- (*arXiv'26*) **When Models Judge Themselves: Unsupervised Self-Evolution for Multimodal Reasoning**
+  [[📝 Paper](https://arxiv.org/pdf/2603.21289v1)]
+
+- (*arXiv'26*) **Position: Agentic Evolution is the Path to Evolving LLMs**
+  [[📝 Paper](https://arxiv.org/pdf/2602.00359v2)]
+
 - (*arXiv'26*) **GSEM: Graph-based Self-Evolving Memory for Experience Augmented Clinical Reasoning**
   [[📝 Paper](https://arxiv.org/abs/2603.22096)]
 
