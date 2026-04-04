@@ -128,6 +128,12 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 - (*Nature Biomedical Engineering'26*) **Empowering AI data scientists using a multi-agent LLM framework with self-evolving capabilities for autonomous, tool-aware biomedical data analyses**
   [[📝 Paper](https://www.nature.com/articles/s41551-026-01634-6)] [[🌐 Project](http://biomed.drai.cn)] [[💻 Code](https://github.com/BOBQWERA/BioMedAgent)]
 
+- (*arXiv'26*) **CORAL: Towards Autonomous Multi-Agent Evolution for Open-Ended Discovery**
+  [[📝 Paper](https://arxiv.org/abs/2604.01658)] [[💻 Code](https://github.com/Human-Agent-Society/CORAL)]
+
+- (*arXiv'26*) **Perfecting Human–AI Interaction at Clinical Scale: Turning Production Signals into Safer, More Human Conversations**
+  [[📝 Paper](https://arxiv.org/abs/2603.29893)]
+
 - (*bioRxiv'26*) **PantheonOS: An Evolvable Multi-Agent Framework for Automatic Genomics Discovery**
   [[📝 Paper](https://www.biorxiv.org/content/10.64898/2026.02.26.707870v1)] [[🌐 Project](https://pantheonos.stanford.edu)] [[💻 Code](https://github.com/aristoteleo)]
 
@@ -345,6 +351,9 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 - (*NeurIPS'25 Workshop*) **HealthAlign-Agents: Self-Play Reflective Prompting for Culturally Aligned Health Communication in Low-Resource Languages**
   [[📝 Paper](https://neurips.cc/virtual/2025/135933)]
 
+- (*arXiv'26*) **Perfecting Human–AI Interaction at Clinical Scale: Turning Production Signals into Safer, More Human Conversations**
+  [[📝 Paper](https://arxiv.org/abs/2603.29893)]
+
 ### Ethics, Safety, and Limits
 
 - (*arXiv'26*) **The Doctor Will (Still) See You Now: On the Structural Limits of Agentic AI in Healthcare**
@@ -375,6 +384,9 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 
 - (*arXiv'26*) **MemMA: Coordinating the Memory Cycle through Multi-Agent Reasoning and In-Situ Self-Evolution**
   [[📝 Paper](https://arxiv.org/abs/2603.18718)]
+
+- (*arXiv'26*) **CORAL: Towards Autonomous Multi-Agent Evolution for Open-Ended Discovery**
+  [[📝 Paper](https://arxiv.org/abs/2604.01658)] [[💻 Code](https://github.com/Human-Agent-Society/CORAL)]
 
 - (*ICLR'26*) **CoT-Evo: Evolutionary Distillation of CoT for Scientific Reasoning**
   [[📝 Paper](https://arxiv.org/abs/2510.13166)] [[💻 Code](https://github.com/Irving-Feng/CoT-Evo)]
