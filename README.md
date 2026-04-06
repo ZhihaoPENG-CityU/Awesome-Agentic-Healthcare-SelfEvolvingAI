@@ -146,6 +146,12 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 - (*arXiv'26*) **CARE: Privacy-Compliant Agentic Reasoning with Evidence Discordance**
   [[📝 Paper](https://arxiv.org/abs/2604.01113)]
 
+- (*arXiv'26*) **PsychAgent: An Experience-Driven Lifelong Learning Agent for Self-Evolving Psychological Counselor**
+  [[📝 Paper](https://arxiv.org/abs/2604.00931)]
+
+- (*Cambridge Open Engage'26*) **Artificial Epidemiology: How self-evolving clinical AI manufactures disease prevalence from administrative coding artifacts**
+  [[📝 Paper](https://client.prod.orp.cambridge.org/engage/coe/article-details/69ca3557d1922e37d5096bf4)]
+
 - (*arXiv'26*) **Perfecting Human–AI Interaction at Clinical Scale: Turning Production Signals into Safer, More Human Conversations**
   [[📝 Paper](https://arxiv.org/abs/2603.29893)]
 
@@ -247,6 +253,9 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 
 - (*arXiv'26*) **GSEM: Graph-based Self-Evolving Memory for Experience Augmented Clinical Reasoning**
   [[📝 Paper](https://arxiv.org/abs/2603.22096)]
+
+- (*arXiv'26*) **PsychAgent: An Experience-Driven Lifelong Learning Agent for Self-Evolving Psychological Counselor**
+  [[📝 Paper](https://arxiv.org/abs/2604.00931)]
 
 - (*arXiv'26*) **EvoClinician: A Self-Evolving Agent for Multi-Turn Medical Diagnosis via Test-Time Evolutionary Learning**
   [[📝 Paper](https://arxiv.org/abs/2601.22964)] [[💻 Code](https://github.com/yf-he/EvoClinician)]
@@ -369,6 +378,9 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 
 ### Health Communication and Alignment
 
+- (*arXiv'26*) **PsychAgent: An Experience-Driven Lifelong Learning Agent for Self-Evolving Psychological Counselor**
+  [[📝 Paper](https://arxiv.org/abs/2604.00931)]
+
 - (*NeurIPS'25 Workshop*) **HealthAlign-Agents: Self-Play Reflective Prompting for Culturally Aligned Health Communication in Low-Resource Languages**
   [[📝 Paper](https://neurips.cc/virtual/2025/135933)]
 
@@ -376,6 +388,9 @@ A curated list of papers and open-source resources on **self-evolving AI for age
   [[📝 Paper](https://arxiv.org/abs/2603.29893)]
 
 ### Ethics, Safety, and Limits
+
+- (*Cambridge Open Engage'26*) **Artificial Epidemiology: How self-evolving clinical AI manufactures disease prevalence from administrative coding artifacts**
+  [[📝 Paper](https://client.prod.orp.cambridge.org/engage/coe/article-details/69ca3557d1922e37d5096bf4)]
 
 - (*arXiv'26*) **CARE: Privacy-Compliant Agentic Reasoning with Evidence Discordance**
   [[📝 Paper](https://arxiv.org/abs/2604.01113)]
