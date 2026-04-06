@@ -47,6 +47,9 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 
 ### 2026
 
+- (*arXiv'26*) **Meta-Harness: End-to-End Optimization of Model Harnesses**
+  [[📝 Paper](https://arxiv.org/pdf/2603.28052)]
+
 - (*arXiv'26*) **Self-evolving AI agents for protein discovery and directed evolution**
   [[📝 Paper](https://arxiv.org/abs/2603.27303)] [[💻 Code](https://github.com/ai4protein/VenusFactory2)]
 
@@ -82,6 +85,9 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 
 - (*arXiv'26*) **OpenHospital: A Thing-in-itself Arena for Evolving and Benchmarking LLM-based Collective Intelligence**
   [[📝 Paper](https://arxiv.org/abs/2603.14771)] [[💻 Code](https://github.com/ZJU-LLMs/Agent-Kernel/tree/main/demo/OpenHospital)]
+
+- (*arXiv'26*) **EviAgent: Evidence-Driven Agent for Radiology Report Generation**
+  [[📝 Paper](https://arxiv.org/pdf/2603.13956)]
 
 - (*arXiv'26*) **TheraAgent: Multi-Agent Framework with Self-Evolving Memory and Evidence-Calibrated Reasoning for PET Theranostics**
   [[📝 Paper](https://arxiv.org/abs/2603.13676)]
@@ -271,6 +277,9 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 - (*arXiv'26*) **TheraAgent: Multi-Agent Framework with Self-Evolving Memory and Evidence-Calibrated Reasoning for PET Theranostics**
   [[📝 Paper](https://arxiv.org/abs/2603.13676)]
 
+- (*arXiv'26*) **EviAgent: Evidence-Driven Agent for Radiology Report Generation**
+  [[📝 Paper](https://arxiv.org/pdf/2603.13956)]
+
 - (*arXiv'26*) **Med-Evo: Test-time Self-evolution for Medical Multimodal Large Language Models**
   [[📝 Paper](https://arxiv.org/abs/2603.07443)]
 
@@ -378,6 +387,9 @@ A curated list of papers and open-source resources on **self-evolving AI for age
   [[📝 Paper](https://arxiv.org/abs/2602.16553)]
 
 ### General Self-Evolving Frameworks and Methods
+
+- (*arXiv'26*) **Meta-Harness: End-to-End Optimization of Model Harnesses**
+  [[📝 Paper](https://arxiv.org/pdf/2603.28052)]
 
 - (*arXiv'26*) **AgentFactory: A Self-Evolving Framework Through Executable Subagent Accumulation and Reuse**
   [[📝 Paper](https://arxiv.org/abs/2603.18000)] [[💻 Code](https://github.com/zzatpku/AgentFactory)]
