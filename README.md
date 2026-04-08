@@ -62,6 +62,9 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 - (*arXiv'26*) **SkinGPT-X: A Self-Evolving Collaborative Multi-Agent System for Transparent and Trustworthy Dermatological Diagnosis**
   [[📝 Paper](https://arxiv.org/abs/2603.26122)]
 
+- (*arXiv'26*) **One Panel Does Not Fit All: Case-Adaptive Multi-Agent Deliberation for Clinical Prediction (CAMP)**
+  [[📝 Paper](https://arxiv.org/abs/2604.00085)]
+
 - (*arXiv'26*) **Doctorina MedBench: End-to-End Evaluation of Agent-Based Medical AI**
   [[📝 Paper](https://arxiv.org/pdf/2603.25821)]
 
@@ -143,7 +146,7 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 - (*arXiv'26*) **ClinicalReTrial: A Self-Evolving AI Agent for Clinical Trial Protocol Optimization**
   [[📝 Paper](https://arxiv.org/abs/2601.00290)]
 
-- (*Nature Biomedical Engineering'26*) **Empowering AI data scientists using a multi-agent LLM framework with self-evolving capabilities for autonomous, tool-aware biomedical data analyses**
+- (*Nature Biomedical Engineering'26*) **Empowering AI data scientists using a multi-agent LLM framework with self-evolving capabilities for autonomous, tool-aware biomedical data analyses (BioMedAgent)**
   [[📝 Paper](https://www.nature.com/articles/s41551-026-01634-6)] [[🌐 Project](http://biomed.drai.cn)] [[💻 Code](https://github.com/BOBQWERA/BioMedAgent)]
 
 - (*Cambridge Open Engage'26*) **Artificial Epidemiology: How Self-Evolving Clinical AI Manufactures Disease Prevalence from Administrative Coding Artifacts**
@@ -263,6 +266,9 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 - (*arXiv'26*) **SkinGPT-X: A Self-Evolving Collaborative Multi-Agent System for Transparent and Trustworthy Dermatological Diagnosis**
   [[📝 Paper](https://arxiv.org/abs/2603.26122)]
 
+- (*arXiv'26*) **One Panel Does Not Fit All: Case-Adaptive Multi-Agent Deliberation for Clinical Prediction (CAMP)**
+  [[📝 Paper](https://arxiv.org/abs/2604.00085)]
+
 - (*arXiv'26*) **Doctorina MedBench: End-to-End Evaluation of Agent-Based Medical AI**
   [[📝 Paper](https://arxiv.org/pdf/2603.25821)]
 
@@ -344,7 +350,7 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 - (*arXiv'26*) **Self-evolving AI agents for protein discovery and directed evolution**
   [[📝 Paper](https://arxiv.org/abs/2603.27303)] [[💻 Code](https://github.com/ai4protein/VenusFactory2)]
 
-- (*Nature Biomedical Engineering'26*) **Empowering AI data scientists using a multi-agent LLM framework with self-evolving capabilities for autonomous, tool-aware biomedical data analyses**
+- (*Nature Biomedical Engineering'26*) **Empowering AI data scientists using a multi-agent LLM framework with self-evolving capabilities for autonomous, tool-aware biomedical data analyses (BioMedAgent)**
   [[📝 Paper](https://www.nature.com/articles/s41551-026-01634-6)] [[🌐 Project](http://biomed.drai.cn)] [[💻 Code](https://github.com/BOBQWERA/BioMedAgent)]
 
 - (*arXiv'26*) **Emulating Clinician Cognition via Self-Evolving Deep Clinical Research**
@@ -445,7 +451,7 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 - (*bioRxiv'26*) **PantheonOS: An Evolvable Multi-Agent Framework for Automatic Genomics Discovery**
   [[📝 Paper](https://www.biorxiv.org/content/10.64898/2026.02.26.707870v1)] [[🌐 Project](https://pantheonos.stanford.edu)] [[💻 Code](https://github.com/aristoteleo)]
 
-- (*Nature Biomedical Engineering'26*) **Empowering AI data scientists using a multi-agent LLM framework with self-evolving capabilities for autonomous, tool-aware biomedical data analyses**
+- (*Nature Biomedical Engineering'26*) **Empowering AI data scientists using a multi-agent LLM framework with self-evolving capabilities for autonomous, tool-aware biomedical data analyses (BioMedAgent)**
   [[📝 Paper](https://www.nature.com/articles/s41551-026-01634-6)] [[🌐 Project](http://biomed.drai.cn)] [[💻 Code](https://github.com/BOBQWERA/BioMedAgent)]
 
 - (*arXiv'26*) **GSEM: Graph-based Self-Evolving Memory for Experience Augmented Clinical Reasoning**
