@@ -1,3 +1,4 @@
+```markdown
 <h1 align="center">
   <strong>Awesome-Self-Evolving-AI-for-Agentic-Healthcare</strong>
 </h1>
@@ -52,6 +53,9 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 
 - (*arXiv'26*) **Self-evolving AI agents for protein discovery and directed evolution**
   [[📝 Paper](https://arxiv.org/abs/2603.27303)] [[💻 Code](https://github.com/ai4protein/VenusFactory2)]
+
+- (*arXiv'26*) **MediHive: A Decentralized Agent Collective for Medical Question Answering**
+  [[📝 Paper](https://arxiv.org/abs/2603.27150)]
 
 - (*arXiv'26*) **AIRA_2: Overcoming Bottlenecks in AI Research Agents**
   [[📝 Paper](https://arxiv.org/pdf/2603.26499)]
@@ -121,6 +125,9 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 
 - (*arXiv'26*) **Tool-Genesis: A Task-Driven Tool Creation Benchmark for Self-Evolving Language Agent**
   [[📝 Paper](https://arxiv.org/pdf/2603.05578)]
+
+- (*arXiv'26*) **SKILLFOUNDRY: Building Self-Evolving Agent Skill Libraries from Heterogeneous Scientific Resources**
+  [[📝 Paper](https://arxiv.org/abs/2604.03964)]
 
 - (*arXiv'26*) **Cognitive Friction: A Decision-Theoretic Framework for Bounded Deliberation in Tool-Using Agents**
   [[📝 Paper](https://arxiv.org/abs/2603.30031)]
@@ -286,6 +293,9 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 > Some papers appear in multiple categories.
 
 ### Medical Diagnosis and Consultation
+
+- (*arXiv'26*) **MediHive: A Decentralized Agent Collective for Medical Question Answering**
+  [[📝 Paper](https://arxiv.org/abs/2603.27150)]
 
 - (*arXiv'26*) **SkinGPT-X: A Self-Evolving Collaborative Multi-Agent System for Transparent and Trustworthy Dermatological Diagnosis**
   [[📝 Paper](https://arxiv.org/abs/2603.26122)]
@@ -464,14 +474,11 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 
 ### Ethics, Safety, and Limits
 
-- (*Cambridge Open Engage'26*) **Artificial Epidemiology: How self-evolving clinical AI manufactures disease prevalence from administrative coding artifacts**
-  [[📝 Paper](https://client.prod.orp.cambridge.org/engage/coe/article-details/69ca3557d1922e37d5096bf4)]
+- (*Cambridge Open Engage'26*) **Artificial Epidemiology: How Self-Evolving Clinical AI Manufactures Disease Prevalence from Administrative Coding Artifacts**
+  [[📝 Paper](https://doi.org/10.33774/coe-2026-ssm1q)]
 
 - (*arXiv'26*) **CARE: Privacy-Compliant Agentic Reasoning with Evidence Discordance**
   [[📝 Paper](https://arxiv.org/abs/2604.01113)]
-
-- (*Cambridge Open Engage'26*) **Artificial Epidemiology: How Self-Evolving Clinical AI Manufactures Disease Prevalence from Administrative Coding Artifacts**
-  [[📝 Paper](https://doi.org/10.33774/coe-2026-ssm1q)]
 
 - (*arXiv'26*) **The Doctor Will (Still) See You Now: On the Structural Limits of Agentic AI in Healthcare**
   [[📝 Paper](https://arxiv.org/abs/2602.18460)]
@@ -507,6 +514,9 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 
 - (*arXiv'26*) **MemMA: Coordinating the Memory Cycle through Multi-Agent Reasoning and In-Situ Self-Evolution**
   [[📝 Paper](https://arxiv.org/abs/2603.18718)]
+
+- (*arXiv'26*) **SKILLFOUNDRY: Building Self-Evolving Agent Skill Libraries from Heterogeneous Scientific Resources**
+  [[📝 Paper](https://arxiv.org/abs/2604.03964)]
 
 - (*arXiv'26*) **CORAL: Towards Autonomous Multi-Agent Evolution for Open-Ended Discovery**
   [[📝 Paper](https://arxiv.org/abs/2604.01658)] [[💻 Code](https://github.com/Human-Agent-Society/CORAL)]
