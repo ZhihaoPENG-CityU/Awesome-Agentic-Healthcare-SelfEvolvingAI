@@ -164,6 +164,18 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 - (*arXiv'26*) **XrayClaw: Cooperative-Competitive Multi-Agent Alignment for Trustworthy Chest X-ray Diagnosis**
   [[📝 Paper](https://arxiv.org/pdf/2604.02695)]
 
+- (*arXiv'26*) **MAT-Cell: A Multi-Agent Tree-Structured Reasoning Framework for Batch-Level Single-Cell Annotation**
+  [[📝 Paper](https://arxiv.org/abs/2604.06269)] [[💻 Code](https://github.com/jiangliu91/MAT-Cell-A-Multi-Agent-Tree-Structured-Reasoning-Framework-for-Batch-Level-Single-Cell-Annotation)]
+
+- (*arXiv'26*) **From Exposure to Internalization: Dual-Stream Calibration for In-context Clinical Reasoning**
+  [[📝 Paper](https://arxiv.org/abs/2604.06262)]
+
+- (*arXiv'26*) **SEARL: Joint Optimization of Policy and Tool Graph Memory for Self-Evolving Agents**
+  [[📝 Paper](https://arxiv.org/abs/2604.07791)]
+
+- (*arXiv'26*) **Grounding Clinical AI Competency in Human Cognition Through the Clinical World Model and Skill-Mix Framework**
+  [[📝 Paper](https://arxiv.org/abs/2604.08226)]
+
 - (*Cambridge Open Engage'26*) **Artificial Epidemiology: How Self-Evolving Clinical AI Manufactures Disease Prevalence from Administrative Coding Artifacts**
   [[📝 Paper](https://doi.org/10.33774/coe-2026-ssm1q)]
 
@@ -299,6 +311,9 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 - (*arXiv'26*) **GSEM: Graph-based Self-Evolving Memory for Experience Augmented Clinical Reasoning**
   [[📝 Paper](https://arxiv.org/abs/2603.22096)]
 
+- (*arXiv'26*) **From Exposure to Internalization: Dual-Stream Calibration for In-context Clinical Reasoning**
+  [[📝 Paper](https://arxiv.org/abs/2604.06262)]
+
 - (*arXiv'26*) **PsychAgent: An Experience-Driven Lifelong Learning Agent for Self-Evolving Psychological Counselor**
   [[📝 Paper](https://arxiv.org/abs/2604.00931)]
 
@@ -386,6 +401,9 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 - (*bioRxiv'26*) **PantheonOS: An Evolvable Multi-Agent Framework for Automatic Genomics Discovery**
   [[📝 Paper](https://www.biorxiv.org/content/10.64898/2026.02.26.707870v1)] [[🌐 Project](https://pantheonos.stanford.edu)] [[💻 Code](https://github.com/aristoteleo)]
 
+- (*arXiv'26*) **MAT-Cell: A Multi-Agent Tree-Structured Reasoning Framework for Batch-Level Single-Cell Annotation**
+  [[📝 Paper](https://arxiv.org/abs/2604.06269)] [[💻 Code](https://github.com/jiangliu91/MAT-Cell-A-Multi-Agent-Tree-Structured-Reasoning-Framework-for-Batch-Level-Single-Cell-Annotation)]
+
 - (*bioRxiv'26*) **Agentomics: An Agentic System that Autonomously Develops Novel State-of-the-art Solutions for Biomedical Machine Learning Tasks**
   [[📝 Paper](https://www.biorxiv.org/content/10.64898/2026.01.27.702049v1)]
 
@@ -461,6 +479,9 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 - (*arXiv'26*) **Agentic AI, Medical Morality, and the Transformation of the Clinic**
   [[📝 Paper](https://arxiv.org/abs/2602.16553)]
 
+- (*arXiv'26*) **Grounding Clinical AI Competency in Human Cognition Through the Clinical World Model and Skill-Mix Framework**
+  [[📝 Paper](https://arxiv.org/abs/2604.08226)]
+
 ### General Self-Evolving Frameworks and Methods
 
 - (*arXiv'26*) **Meta-Harness: End-to-End Optimization of Model Harnesses**
@@ -492,6 +513,9 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 
 - (*arXiv'26*) **EvoSkills: Self-Evolving Agent Skills via Co-Evolutionary Verification**
   [[📝 Paper](https://arxiv.org/abs/2604.01687)]
+
+- (*arXiv'26*) **SEARL: Joint Optimization of Policy and Tool Graph Memory for Self-Evolving Agents**
+  [[📝 Paper](https://arxiv.org/abs/2604.07791)]
 
 - (*arXiv'26*) **Cognitive Friction: A Decision-Theoretic Framework for Bounded Deliberation in Tool-Using Agents**
   [[📝 Paper](https://arxiv.org/abs/2603.30031)]
