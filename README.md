@@ -93,6 +93,12 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 - (*arXiv'26*) **GSEM: Graph-based Self-Evolving Memory for Experience Augmented Clinical Reasoning**
   [[📝 Paper](https://arxiv.org/abs/2603.22096)]
 
+- (*arXiv'26*) **Improving Clinical Diagnosis with Counterfactual Multi-Agent Reasoning**
+  [[📝 Paper](https://arxiv.org/abs/2603.27820)]
+
+- (*Health Inf Sci Syst'26*) **Enhancing LLM-based medical decision-making by test-time knowledge acquisition**
+  [[📝 Paper](https://doi.org/10.1007/s13755-026-00449-8)]
+
 - (*arXiv'26*) **When Models Judge Themselves: Unsupervised Self-Evolution for Multimodal Reasoning**
   [[📝 Paper](https://arxiv.org/pdf/2603.21289v1)]
 
@@ -335,6 +341,12 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 
 - (*arXiv'26*) **From Exposure to Internalization: Dual-Stream Calibration for In-context Clinical Reasoning**
   [[📝 Paper](https://arxiv.org/abs/2604.06262)]
+
+- (*arXiv'26*) **Improving Clinical Diagnosis with Counterfactual Multi-Agent Reasoning**
+  [[📝 Paper](https://arxiv.org/abs/2603.27820)]
+
+- (*Health Inf Sci Syst'26*) **Enhancing LLM-based medical decision-making by test-time knowledge acquisition**
+  [[📝 Paper](https://doi.org/10.1007/s13755-026-00449-8)]
 
 - (*arXiv'26*) **PsychAgent: An Experience-Driven Lifelong Learning Agent for Self-Evolving Psychological Counselor**
   [[📝 Paper](https://arxiv.org/abs/2604.00931)]
