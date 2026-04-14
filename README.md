@@ -33,6 +33,9 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 - (*arXiv'26*) **Agentic AI in Healthcare & Medicine: A Seven-Dimensional Taxonomy for Empirical Evaluation of LLM-based Agents**
   [[📝 Paper](https://arxiv.org/abs/2602.04813)]
 
+- (*CEEM'26*) **From Non-Agentic LLMs to Multi-Agent Systems in Emergency Medicine: A Scoping Review**
+  [[📝 Paper](https://doi.org/10.15441/ceem.26.136)]
+
 - (*arXiv'25*) **A Comprehensive Survey of Self-Evolving AI Agents: A New Paradigm Bridging Foundation Models and Lifelong Agentic Systems**
   [[📝 Paper](https://arxiv.org/abs/2508.07407)] [[💻 Code](https://github.com/EvoAgentX/Awesome-Self-Evolving-Agents)]
 
@@ -205,6 +208,9 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 
 - (*arXiv'26*) **EMSDialog: Synthetic Multi-person Emergency Medical Service Dialogue Generation from Electronic Patient Care Reports via Multi-LLM Agents**
   [[📝 Paper](https://arxiv.org/abs/2604.07549)]
+
+- (*CEEM'26*) **From Non-Agentic LLMs to Multi-Agent Systems in Emergency Medicine: A Scoping Review**
+  [[📝 Paper](https://doi.org/10.15441/ceem.26.136)]
 
 - (*arXiv'26*) **Constraint-Aware Corrective Memory for Language-Based Drug Discovery Agents (CACM)**
   [[📝 Paper](https://arxiv.org/abs/2604.09308)]
@@ -431,6 +437,9 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 
 - (*arXiv'26*) **EMSDialog: Synthetic Multi-person Emergency Medical Service Dialogue Generation from Electronic Patient Care Reports via Multi-LLM Agents**
   [[📝 Paper](https://arxiv.org/abs/2604.07549)]
+
+- (*CEEM'26*) **From Non-Agentic LLMs to Multi-Agent Systems in Emergency Medicine: A Scoping Review**
+  [[📝 Paper](https://doi.org/10.15441/ceem.26.136)]
 
 - (*arXiv'25*) **Evolving Diagnostic Agents in a Virtual Clinical Environment**
   [[📝 Paper](https://arxiv.org/abs/2510.24654)]
