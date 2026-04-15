@@ -216,7 +216,7 @@ A curated list of papers and open-source resources on **self-evolving AI for age
   [[💻 Code](https://github.com/EverMind-AI/EverOS)]
 
 - (*arXiv'26*) **QuarkMedSearch: A Long-Horizon Deep Search Agent for Exploring Medical Intelligence**
-  [[📝 Paper](https://arxiv.org/abs/2604.12867)]
+  [[📝 Paper](https://arxiv.org/pdf/2604.12867)]
 
 - (*arXiv'26*) **Development, Evaluation, and Deployment of a Multi-Agent System for Thoracic Tumor Board**
   [[📝 Paper](https://arxiv.org/abs/2604.12161)]
@@ -366,7 +366,7 @@ A curated list of papers and open-source resources on **self-evolving AI for age
   [[📝 Paper](https://arxiv.org/abs/2604.08988)]
 
 - (*arXiv'26*) **QuarkMedSearch: A Long-Horizon Deep Search Agent for Exploring Medical Intelligence**
-  [[📝 Paper](https://arxiv.org/abs/2604.12867)]
+  [[📝 Paper](https://arxiv.org/pdf/2604.12867)]
 
 - (*arXiv'26*) **Can Large Language Models Self-Correct in Medical Question Answering? An Exploratory Study**
   [[📝 Paper](https://arxiv.org/abs/2604.00261)]
@@ -480,7 +480,7 @@ A curated list of papers and open-source resources on **self-evolving AI for age
   [[📝 Paper](https://arxiv.org/abs/2603.10677)]
 
 - (*arXiv'26*) **QuarkMedSearch: A Long-Horizon Deep Search Agent for Exploring Medical Intelligence**
-  [[📝 Paper](https://arxiv.org/abs/2604.12867)]
+  [[📝 Paper](https://arxiv.org/pdf/2604.12867)]
 
 - (*arXiv'26*) **CARIS: Coding-Free and Privacy-Preserving MCP Framework for Clinical Agentic Research Intelligence System**
   [[📝 Paper](https://arxiv.org/abs/2604.12258)]
