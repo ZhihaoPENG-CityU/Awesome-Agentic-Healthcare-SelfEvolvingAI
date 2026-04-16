@@ -42,6 +42,9 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 - (*arXiv'25*) **A Survey of Self-Evolving Agents: What, When, How, and Where to Evolve on the Path to Artificial Super Intelligence**
   [[📝 Paper](https://arxiv.org/abs/2507.21046)]
 
+- (*arXiv'25*) **Beyond Generative AI: World Models for Clinical Prediction, Counterfactuals, and Planning**
+  [[📝 Paper](https://arxiv.org/abs/2511.16333)]
+
 ---
 
 ## 📝 Self-Evolving AI Papers
@@ -170,7 +173,7 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 - (*arXiv'26*) **EvoClinician: A Self-Evolving Agent for Multi-Turn Medical Diagnosis via Test-Time Evolutionary Learning**
   [[📝 Paper](https://arxiv.org/abs/2601.22964)] [[💻 Code](https://github.com/yf-he/EvoClinician)]
 
-- (*arXiv'26*) **Route, Retrieve, Reflect, Repair: Self-Improving Agentic Framework for Visual Detection and Linguistic Reasoning in Medical Imaging**
+- (*arXiv'26*) **Route, Retrieve, Reflect, Repair (R⁴): Self-Improving Agentic Framework for Visual Detection and Linguistic Reasoning in Medical Imaging**
   [[📝 Paper](https://arxiv.org/abs/2601.08192)] [[💻 Code](https://github.com/faiyazabdullah/MultimodalMedAgent)]
 
 - (*arXiv'26*) **ClinicalReTrial: A Self-Evolving AI Agent for Clinical Trial Protocol Optimization**
@@ -288,6 +291,9 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 
 - (*arXiv'25*) **HealthFlow: A Self-Evolving AI Agent with Meta Planning for Autonomous Healthcare Research**
   [[📝 Paper](https://arxiv.org/abs/2508.02621)] [[💻 Code](https://github.com/yhzhu99/HealthFlow)]
+
+- (*arXiv'25*) **MAP: Evaluation and Multi-Agent Enhancement of Large Language Models for Inpatient Pathways**
+  [[📝 Paper](https://arxiv.org/abs/2503.13205)]
 
 - (*arXiv'25*) **Integrating Dynamical Systems Learning with Foundational Models: A Meta-Evolutionary AI Framework for Clinical Trials**
   [[📝 Paper](https://arxiv.org/abs/2506.14782)]
@@ -410,6 +416,9 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 - (*arXiv'25*) **MDTeamGPT: A Self-Evolving LLM-based Multi-Agent Framework for Multi-Disciplinary Team Medical Consultation**
   [[📝 Paper](https://arxiv.org/abs/2503.13856)] [[🌐 Project](https://kaichennj.github.io/MDTeamGPT-Main/)]
 
+- (*arXiv'25*) **MAP: Evaluation and Multi-Agent Enhancement of Large Language Models for Inpatient Pathways**
+  [[📝 Paper](https://arxiv.org/abs/2503.13205)]
+
 - (*arXiv'25*) **PathFinder: A Multi-Modal Multi-Agent System for Medical Diagnostic Decision-Making Applied to Histopathology**
   [[📝 Paper](https://arxiv.org/pdf/2502.08916)]
 
@@ -436,7 +445,7 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 - (*arXiv'26*) **Evolving Medical Imaging Agents via Experience-driven Self-skill Discovery (MACRO)**
   [[📝 Paper](https://arxiv.org/abs/2603.05860)]
 
-- (*arXiv'26*) **Route, Retrieve, Reflect, Repair: Self-Improving Agentic Framework for Visual Detection and Linguistic Reasoning in Medical Imaging**
+- (*arXiv'26*) **Route, Retrieve, Reflect, Repair (R⁴): Self-Improving Agentic Framework for Visual Detection and Linguistic Reasoning in Medical Imaging**
   [[📝 Paper](https://arxiv.org/abs/2601.08192)] [[💻 Code](https://github.com/faiyazabdullah/MultimodalMedAgent)]
 
 - (*arXiv'25*) **A Co-evolving Agentic AI System for Medical Imaging Analysis (TissueLab)**
@@ -546,6 +555,9 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 
 - (*arXiv'25*) **MDTeamGPT: A Self-Evolving LLM-based Multi-Agent Framework for Multi-Disciplinary Team Medical Consultation**
   [[📝 Paper](https://arxiv.org/abs/2503.13856)] [[🌐 Project](https://kaichennj.github.io/MDTeamGPT-Main/)]
+
+- (*arXiv'25*) **MAP: Evaluation and Multi-Agent Enhancement of Large Language Models for Inpatient Pathways**
+  [[📝 Paper](https://arxiv.org/abs/2503.13205)]
 
 ### Health Communication and Alignment
 
