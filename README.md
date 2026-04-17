@@ -125,6 +125,9 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 - (*arXiv'26*) **EviAgent: Evidence-Driven Agent for Radiology Report Generation**
   [[📝 Paper](https://arxiv.org/pdf/2603.13956)]
 
+- (*arXiv'26*) **Enhancing Reinforcement Learning for Radiology Report Generation with Evidence-aware Rewards and Self-correcting Preference Learning**
+  [[📝 Paper](https://arxiv.org/abs/2604.13598)]
+
 - (*arXiv'26*) **Agentic AI for Clinical Urgency Mapping and Queue Optimization in High-Volume Outpatient Departments: A Simulation-Based Evaluation**
   [[📝 Paper](https://arxiv.org/abs/2604.00215)]
 
@@ -298,6 +301,9 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 - (*arXiv'25*) **HealthFlow: A Self-Evolving AI Agent with Meta Planning for Autonomous Healthcare Research**
   [[📝 Paper](https://arxiv.org/abs/2508.02621)] [[💻 Code](https://github.com/yhzhu99/HealthFlow)]
 
+- (*arXiv'25*) **MedAgentGym: A Scalable Agentic Training Environment for Code-Centric Reasoning in Biomedical Data Science**
+  [[📝 Paper](https://arxiv.org/abs/2506.04405)]
+
 - (*arXiv'25*) **MAP: Evaluation and Multi-Agent Enhancement of Large Language Models for Inpatient Pathways**
   [[📝 Paper](https://arxiv.org/abs/2503.13205)]
 
@@ -312,6 +318,9 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 
 - (*NeurIPS'25 Workshop*) **HealthAlign-Agents: Self-Play Reflective Prompting for Culturally Aligned Health Communication in Low-Resource Languages**
   [[📝 Paper](https://neurips.cc/virtual/2025/135933)]
+
+- (*arXiv'25*) **CounselBench: A Large-Scale Expert Evaluation and Adversarial Benchmarking of Large Language Models in Mental Health Question Answering**
+  [[📝 Paper](https://arxiv.org/abs/2506.08584)]
 
 - (*EMNLP'25 Demo*) **EvoAgentX: An Automated Framework for Evolving Agentic Workflows**
   [[📝 Paper](https://aclanthology.org/2025.emnlp-demos.47/)] [[💻 Code](https://github.com/EvoAgentX/EvoAgentX)]
@@ -439,6 +448,9 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 - (*arXiv'26*) **EviAgent: Evidence-Driven Agent for Radiology Report Generation**
   [[📝 Paper](https://arxiv.org/pdf/2603.13956)]
 
+- (*arXiv'26*) **Enhancing Reinforcement Learning for Radiology Report Generation with Evidence-aware Rewards and Self-correcting Preference Learning**
+  [[📝 Paper](https://arxiv.org/abs/2604.13598)]
+
 - (*arXiv'26*) **XrayClaw: Cooperative-Competitive Multi-Agent Alignment for Trustworthy Chest X-ray Diagnosis**
   [[📝 Paper](https://arxiv.org/pdf/2604.02695)]
 
@@ -524,6 +536,9 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 - (*arXiv'25*) **HealthFlow: A Self-Evolving AI Agent with Meta Planning for Autonomous Healthcare Research**
   [[📝 Paper](https://arxiv.org/abs/2508.02621)] [[💻 Code](https://github.com/yhzhu99/HealthFlow)]
 
+- (*arXiv'25*) **MedAgentGym: A Scalable Agentic Training Environment for Code-Centric Reasoning in Biomedical Data Science**
+  [[📝 Paper](https://arxiv.org/abs/2506.04405)]
+
 - (*bioRxiv'25*) **LabOS: The AI-XR Co-Scientist That Sees and Works With Humans**
   [[📝 Paper](https://www.biorxiv.org/content/10.1101/2025.10.16.679418v2)] [[💻 Code](https://github.com/zaixizhang/LabOS)] [[🌐 Project](https://ai4labos.com/)]
 
@@ -581,6 +596,9 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 
 - (*NeurIPS'25 Workshop*) **HealthAlign-Agents: Self-Play Reflective Prompting for Culturally Aligned Health Communication in Low-Resource Languages**
   [[📝 Paper](https://neurips.cc/virtual/2025/135933)]
+
+- (*arXiv'25*) **CounselBench: A Large-Scale Expert Evaluation and Adversarial Benchmarking of Large Language Models in Mental Health Question Answering**
+  [[📝 Paper](https://arxiv.org/abs/2506.08584)]
 
 - (*arXiv'26*) **Perfecting Human–AI Interaction at Clinical Scale: Turning Production Signals into Safer, More Human Conversations**
   [[📝 Paper](https://arxiv.org/abs/2603.29893)]
