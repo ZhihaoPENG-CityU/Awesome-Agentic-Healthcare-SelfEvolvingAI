@@ -257,6 +257,15 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 - (*arXiv'26*) **PsychAgent: An Experience-Driven Lifelong Learning Agent for Self-Evolving Psychological Counselor**
   [[📝 Paper](https://arxiv.org/abs/2604.00931)]
 
+- (*arXiv'26*) **Can LLMs Score Medical Diagnoses and Clinical Reasoning as well as Expert Panels?**
+  [[📝 Paper](https://arxiv.org/abs/2604.14892)]
+
+- (*arXiv'26*) **Autogenesis: A Self-Evolving Agent Protocol**
+  [[📝 Paper](https://arxiv.org/abs/2604.15034)]
+
+- (*arXiv'26*) **RadAgent: A tool-using AI agent for stepwise interpretation of chest computed tomography**
+  [[📝 Paper](https://arxiv.org/abs/2604.15231)] [[🌐 Project](https://rad-agent.github.io/)]
+
 - (*arXiv'26*) **Perfecting Human–AI Interaction at Clinical Scale: Turning Production Signals into Safer, More Human Conversations**
   [[📝 Paper](https://arxiv.org/abs/2603.29893)]
 
@@ -389,6 +398,9 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 - (*arXiv'26*) **QuarkMedSearch: A Long-Horizon Deep Search Agent for Exploring Medical Intelligence**
   [[📝 Paper](https://arxiv.org/pdf/2604.12867)]
 
+- (*arXiv'26*) **Can LLMs Score Medical Diagnoses and Clinical Reasoning as well as Expert Panels?**
+  [[📝 Paper](https://arxiv.org/abs/2604.14892)]
+
 - (*arXiv'26*) **Can Large Language Models Self-Correct in Medical Question Answering? An Exploratory Study**
   [[📝 Paper](https://arxiv.org/abs/2604.00261)]
 
@@ -450,6 +462,9 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 
 - (*arXiv'26*) **Enhancing Reinforcement Learning for Radiology Report Generation with Evidence-aware Rewards and Self-correcting Preference Learning**
   [[📝 Paper](https://arxiv.org/abs/2604.13598)]
+
+- (*arXiv'26*) **RadAgent: A tool-using AI agent for stepwise interpretation of chest computed tomography**
+  [[📝 Paper](https://arxiv.org/abs/2604.15231)] [[🌐 Project](https://rad-agent.github.io/)]
 
 - (*arXiv'26*) **XrayClaw: Cooperative-Competitive Multi-Agent Alignment for Trustworthy Chest X-ray Diagnosis**
   [[📝 Paper](https://arxiv.org/pdf/2604.02695)]
@@ -627,6 +642,9 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 
 - (*arXiv'26*) **Meta-Harness: End-to-End Optimization of Model Harnesses**
   [[📝 Paper](https://arxiv.org/pdf/2603.28052)]
+
+- (*arXiv'26*) **Autogenesis: A Self-Evolving Agent Protocol**
+  [[📝 Paper](https://arxiv.org/abs/2604.15034)]
 
 - (*arXiv'26*) **AgentFactory: A Self-Evolving Framework Through Executable Subagent Accumulation and Reuse**
   [[📝 Paper](https://arxiv.org/abs/2603.18000)] [[💻 Code](https://github.com/zzatpku/AgentFactory)]
