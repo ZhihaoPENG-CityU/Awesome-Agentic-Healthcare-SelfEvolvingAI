@@ -257,7 +257,7 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 - (*arXiv'26*) **CORAL: Towards Autonomous Multi-Agent Evolution for Open-Ended Discovery**
   [[📝 Paper](https://arxiv.org/abs/2604.01658)] [[💻 Code](https://github.com/Human-Agent-Society/CORAL)]
 
-- (*arXiv'26*) **EvoSkills: Self-Evolving Agent Skills via Co-Evolutionary Verification**
+- (*arXiv'26*) **CoEvoSkills: Self-Evolving Agent Skills via Co-Evolutionary Verification**
   [[📝 Paper](https://arxiv.org/abs/2604.01687)]
 
 - (*arXiv'26*) **CARE: Privacy-Compliant Agentic Reasoning with Evidence Discordance**
@@ -366,6 +366,9 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 
 ### 2024
 
+- (*arXiv'24*) **Agent Hospital: A Simulacrum of Hospital with Evolvable Medical Agents**
+  [[📝 Paper](https://arxiv.org/abs/2405.02957)]
+
 - (*arXiv'24*) **Towards Conversational Diagnostic AI (AMIE)**
   [[📝 Paper](https://www.nature.com/articles/s41586-025-08866-7)]
 
@@ -415,6 +418,9 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 
 - (*arXiv'24*) **Adaptive Reasoning and Acting in Medical Language Agents**
   [[📝 Paper](https://arxiv.org/abs/2410.10020)]
+
+- (*arXiv'24*) **Agent Hospital: A Simulacrum of Hospital with Evolvable Medical Agents**
+  [[📝 Paper](https://arxiv.org/abs/2405.02957)]
 
 - (*arXiv'26*) **One Panel Does Not Fit All: Case-Adaptive Multi-Agent Deliberation for Clinical Prediction (CAMP)**
   [[📝 Paper](https://arxiv.org/abs/2604.00085)]
@@ -703,6 +709,9 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 - (*arXiv'26*) **OpenHospital: A Thing-in-itself Arena for Evolving and Benchmarking LLM-based Collective Intelligence**
   [[📝 Paper](https://arxiv.org/abs/2603.14771)] [[💻 Code](https://github.com/ZJU-LLMs/Agent-Kernel/tree/main/demo/OpenHospital)]
 
+- (*arXiv'24*) **Agent Hospital: A Simulacrum of Hospital with Evolvable Medical Agents**
+  [[📝 Paper](https://arxiv.org/abs/2405.02957)]
+
 - (*arXiv'26*) **SEA-Eval: A Benchmark for Evaluating Self-Evolving Agents Beyond Episodic Assessment**
   [[📝 Paper](https://arxiv.org/abs/2604.08988)]
 
@@ -730,7 +739,7 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 - (*arXiv'26*) **CORAL: Towards Autonomous Multi-Agent Evolution for Open-Ended Discovery**
   [[📝 Paper](https://arxiv.org/abs/2604.01658)] [[💻 Code](https://github.com/Human-Agent-Society/CORAL)]
 
-- (*arXiv'26*) **EvoSkills: Self-Evolving Agent Skills via Co-Evolutionary Verification**
+- (*arXiv'26*) **CoEvoSkills: Self-Evolving Agent Skills via Co-Evolutionary Verification**
   [[📝 Paper](https://arxiv.org/abs/2604.01687)]
 
 - (*arXiv'26*) **SEARL: Joint Optimization of Policy and Tool Graph Memory for Self-Evolving Agents**
