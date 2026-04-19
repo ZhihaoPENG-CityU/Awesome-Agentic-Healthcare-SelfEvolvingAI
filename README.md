@@ -18,6 +18,7 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 
 - [Survey Papers](#-survey-papers)
 - [Classic agent-based health care (2002–2008)](#classic-agent-based-health-care-2002-2008)
+- [Agent-based healthcare systems (2009–2014)](#agent-based-healthcare-systems-2009-2014)
 - [Self-Evolving AI Papers](#-self-evolving-ai-papers)
 - [By Topic](#-by-topic)
 - [Related Repositories](#-related-repositories)
@@ -125,6 +126,211 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 
 - (*AAMAS Industry'08*) **Agent-based patient admission scheduling in hospitals** (Hutzschenreuter et al.)
   [[📝 Paper](https://dl.acm.org/citation.cfm?id=1402804)]
+
+### Agent-based healthcare systems (2009–2014)
+
+> **Software-agent / multi-agent systems** for care delivery, health IT integration, telehealth, AAL, or clinical decision support, with **first publication in 2009–2014**.  
+> **Excluded** from this block (per repository curation): epidemic/biological ABM and borderline platform-only papers; see **Curation scope** under [Contributing](#-contributing).
+
+#### 2014
+
+- (*IJAIT'14*) **A multi-agent care system to support independent living** (Kaluža et al.)
+  [[📝 Paper](https://doi.org/10.1142/S0218213014400016)]
+
+- (*J. Intell. Inf. Syst.'14*) **OBCAS: an agent-based system and ontology for mobile context aware interactions** (Castro Garrido et al.)
+  [[📝 Paper](https://doi.org/10.1007/s10844-014-0305-8)]
+
+- (*IJAIT'14*) **Abductive agents for human activity monitoring** (Vettier & Garbay)
+  [[📝 Paper](https://doi.org/10.1142/S0218213014400028)]
+
+- (*IJAIT'14*) **Agent-based reasoning in medical planning and diagnosis combining multiple strategies** (Nieves et al.)
+  [[📝 Paper](https://doi.org/10.1142/S0218213014400041)]
+
+- (*IJAIT'14*) **Towards a simulator of integrated long-term care systems for elderly people** (Grimaldo et al.)
+  [[📝 Paper](https://doi.org/10.1142/S0218213014400053)]
+
+- (*J. Med. Syst.'14*) **Designing an architectural style for dynamic medical cross-organizational workflow management system: an approach based on agents and web services** (Bouzguenda & Turki)
+  [[📝 Paper](https://doi.org/10.1007/s10916-014-0032-2)]
+
+- (*ISCON'14*) **Architectural design of a multi agent enterprise knowledge management system (MAEKMS) for e-health** (Jain)
+  [[📝 Paper](https://doi.org/10.1109/iciscon.2014.6965225)]
+
+- (*Int. J. Environ. Res. Public Health'14*) **The next generation of interoperability agents in healthcare** (Cardoso et al.)
+  [[📝 Paper](https://doi.org/10.3390/ijerph110505349)]
+
+- (*Procedia Technol.'14*) **Healthcare interoperability through intelligent agent technology** (Cardoso et al.)
+  [[📝 Paper](https://doi.org/10.1016/j.protcy.2014.10.150)]
+
+- (*PAAMS'14*) **Assessment of agent architectures for telehealth** (Jørgensen et al.)
+  [[📝 Paper](https://doi.org/10.1007/978-3-319-07767-3_8)]
+
+- (*IJMLC'14*) **Multi-agent decision-making support model for the management of pre-hospital emergency services** (Chennaoui & Paquet)
+  [[📝 Paper](https://doi.org/10.7763/ijmlc.2014.v4.412)]
+
+- (*Stud. Comput. Intell.'14*) **Negotiation-based patient scheduling in hospitals — reengineering message-based interactions with services** (Braubach et al.)
+  [[📝 Paper](https://doi.org/10.1007/978-3-319-00467-9_10)]
+
+- (*Int. J. Simul. Process Model.'14*) **Evaluating policies using agent-based simulations: investigating policies for continuity of care** (Ramsey)
+  [[📝 Paper](https://doi.org/10.1504/ijspm.2014.066364)]
+
+- (*IJAIT'14*) **Secure P2P cross-community health record exchange in IHE compatible systems** (Urovi et al.)
+  [[📝 Paper](https://doi.org/10.1142/S0218213014400065)]
+
+- (*IJAIT'14*) **Editorial: special issue on new perspectives on the use of agents in health care** (Moreno)
+  [[📝 Paper](https://doi.org/10.1142/S0218213014020011)]
+
+- (*Int. J. Environ. Res. Public Health'14*) **A mobile multi-agent information system for ubiquitous fetal monitoring** (Su & Chu)
+  [[📝 Paper](https://doi.org/10.3390/ijerph110100600)]
+
+- (*IJAIT'14*) **A push-based agent communication model empowering assistive technologies** (Järvinen et al.)
+  [[📝 Paper](https://doi.org/10.1142/S021821301440003x)]
+
+#### 2013
+
+- (*JAISE'13*) **COMMODITY12: a smart e-health environment for diabetes management** (Kafalı et al.)
+  [[📝 Paper](https://doi.org/10.3233/ais-130220)]
+
+- (*Comput. Biol. Med.'13*) **The self-aware diabetic patient software agent model** (Wang & Paranjape)
+  [[📝 Paper](https://doi.org/10.1016/j.compbiomed.2013.09.007)]
+
+- (*Inf. Sci.'13*) **Integrating hardware agents into an enhanced multi-agent architecture for ambient intelligence systems** (Tapia et al.)
+  [[📝 Paper](https://doi.org/10.1016/j.ins.2011.05.002)]
+
+- (*Procedia Comput. Sci.'13*) **Agent based health monitoring of elderly people in indoor environments using wireless sensor networks** (Vaidehi et al.)
+  [[📝 Paper](https://doi.org/10.1016/j.procs.2013.06.014)]
+
+- (*ACM Trans. Manag. Inf. Syst.'13*) **I can help you change! An empathic virtual agent delivers behavior change health interventions** (Lisetti et al.)
+  [[📝 Paper](https://doi.org/10.1145/2544103)]
+
+- (*Procedia Comput. Sci.'13*) **Using an agent-based simulation for predicting the effects of patients derivation policies in emergency departments** (Taboada et al.)
+  [[📝 Paper](https://doi.org/10.1016/j.procs.2013.05.228)]
+
+- (*Comput. Biol. Med.'13*) **Formal specification and analysis of intelligent agents for model-based medicine usage management** (Hoogendoorn et al.)
+  [[📝 Paper](https://doi.org/10.1016/j.compbiomed.2013.01.021)]
+
+- (*Inf. Sci.'13*) **Context-aware multi-agent planning in intelligent environments** (Pajares Ferrando & Onaindia)
+  [[📝 Paper](https://doi.org/10.1016/j.ins.2012.11.021)]
+
+- (*Pers. Ubiquitous Comput.'13*) **Self-configuring agents for ambient assisted living applications** (Ayala et al.) — *journal vol. 17(6), 2013; Crossref online date 2012*
+  [[📝 Paper](https://doi.org/10.1007/s00779-012-0555-9)]
+
+- (*Int. J. Intell. Syst. Technol. Appl.'13*) **Agent-based communication systems for elders using a reminiscence therapy** (Fuketa et al.)
+  [[📝 Paper](https://doi.org/10.1504/ijista.2013.056533)]
+
+- (*J. Med. Syst.'13*) **Secure mobile agent for telemedicine based on P2P networks** (Hsu & Pan)
+  [[📝 Paper](https://doi.org/10.1007/s10916-013-9947-2)]
+
+- (*IJSEIA'13*) **An efficient multi-agent system for e-health functionalities** (Moghaddam et al.) — *International Journal of Software Engineering and Its Applications* **7**(3); no Crossref DOI located.
+
+#### 2012
+
+- (*J. Med. Syst.'12*) **A mobile agent approach for secure integrated medical information systems** (Liu et al.)
+  [[📝 Paper](https://doi.org/10.1007/s10916-011-9749-3)]
+
+- (*J. Med. Syst.'12*) **Implementing an integrative multi-agent clinical decision support system with open source software** (Sayyad Shirabad et al.)
+  [[📝 Paper](https://doi.org/10.1007/s10916-010-9452-9)]
+
+- (*J. Med. Syst.'12*) **A study on agent-based secure scheme for electronic medical record system** (Chen et al.)
+  [[📝 Paper](https://doi.org/10.1007/s10916-010-9595-8)]
+
+- (*J. Med. Syst.'12*) **Secure communication of medical information using mobile agents** (Nikooghadam & Zakerolhosseini)
+  [[📝 Paper](https://doi.org/10.1007/s10916-012-9857-8)]
+
+- (*J. Med. Syst.'12*) **Mobile agent application and integration in electronic anamnesis system** (Liu et al.)
+  [[📝 Paper](https://doi.org/10.1007/s10916-010-9563-3)]
+
+- (*J. Med. Syst.'12*) **Deployment of secure mobile agents for medical information systems** (Chen et al.)
+  [[📝 Paper](https://doi.org/10.1007/s10916-011-9716-z)]
+
+- (*Artif. Intell. Med.'12*) **Inconsistency as a diagnostic tool in a society of intelligent agents** (McShane et al.)
+  [[📝 Paper](https://doi.org/10.1016/j.artmed.2012.04.005)]
+
+- (*IEEE Trans. Inf. Technol. Biomed.'12*) **Optimizing medical data quality based on multiagent web service framework** (Wu et al.)
+  [[📝 Paper](https://doi.org/10.1109/titb.2012.2195498)]
+
+- (*Adv. Sci. Lett.'12*) **Construction of real-time weight control intelligent recommendation system using multi-agent mechanism** (Lo)
+  [[📝 Paper](https://doi.org/10.1166/asl.2012.2515)]
+
+- (*Expert Syst. Appl.'12*) **Multi-agent ontology-based Web 2.0 platform for medical rehabilitation** (Su & Peng)
+  [[📝 Paper](https://doi.org/10.1016/j.eswa.2011.09.089)]
+
+- (*CISTI'12*) **Improving expressiveness of agents using openEHR to retrieve multi-institutional health data: feeding local repositories through HL7 based providers** (Silva-Ferreira et al.) — *short paper; full text via IEEE Xplore CISTI 2012 proceedings*
+
+#### 2011
+
+- (*IEEE Trans. Knowl. Data Eng.'11*) **Integration of the HL7 standard in a multiagent system to support personalized access to e-health services** (De Meo et al.)
+  [[📝 Paper](https://doi.org/10.1109/tkde.2010.174)]
+
+- (*Procedia Comput. Sci.'11*) **An agent-based decision support system for hospitals emergency departments** (Taboada et al.)
+  [[📝 Paper](https://doi.org/10.1016/j.procs.2011.04.203)]
+
+- (*SUComS'11*) **Agent based approach in accessing distributed health care services** (Bhat et al.)
+  [[📝 Paper](https://doi.org/10.1007/978-3-642-23948-9_24)]
+
+- (*EIDWT'11*) **Designing and implementing intelligent agents for e-health** (Domnori et al.)
+  [[📝 Paper](https://doi.org/10.1109/eidwt.2011.19)]
+
+- (*J. Med. Syst.'11*) **Distributed agent based interoperable virtual EMR system for healthcare system integration** (Yang & Miao)
+  [[📝 Paper](https://doi.org/10.1007/s10916-009-9367-5)]
+
+- (*Appl. Soft Comput.'11*) **JADE implemented mobile multi-agent based, distributed information platform for pervasive health care monitoring** (Su & Wu)
+  [[📝 Paper](https://doi.org/10.1016/j.asoc.2009.11.022)]
+
+- (*Int. J. Eng. Bus. Manag.'11*) **Building distributed E-healthcare for elderly using RFID and multi-agent** (Su & Shih)
+  [[📝 Paper](https://doi.org/10.5772/45677)]
+
+#### 2010
+
+- (*Int. J. E-Health Med. Commun.'10*) **Developing smart emergency applications with multi-agent systems** (Bergenti & Poggi)
+  [[📝 Paper](https://doi.org/10.4018/jehmc.2010100101)]
+
+- (*J. Ambient Intell. Humaniz. Comput.'10*) **Ontology-based multi-agents for intelligent healthcare applications** (Wang et al.)
+  [[📝 Paper](https://doi.org/10.1007/s12652-010-0011-5)]
+
+- (*IEEE Trans. Inf. Technol. Biomed.'10*) **A distributed, collaborative intelligent agent system approach for proactive postmarketing drug safety surveillance** (Ji et al.)
+  [[📝 Paper](https://doi.org/10.1109/titb.2009.2037007)]
+
+- (*IEEE Intell. Syst.'10*) **An artificial urban healthcare system and applications** (Xuyan & Lefei)
+  [[📝 Paper](https://doi.org/10.1109/mis.2010.76)]
+
+- (*Elektronika ir Elektrotechnika'10*) **Multi-agent-based human computer interaction of E-health care system for people with movement disabilities** (Bielskis et al.)
+  [[📝 Paper](https://eejournal.ktu.lt/index.php/elt/article/view/9280)]
+
+- (*JAISE'10*) **An integrative ambient agent model for unipolar depression relapse prevention** (Aziz et al.)
+  [[📝 Paper](https://doi.org/10.3233/ais-2010-0054)]
+
+- (*J. Univers. Comput. Sci.'10*) **An agent-based architecture for developing activity-aware systems for assisting elderly** (García-Vázquez et al.)
+  [[📝 Paper](http://www.jucs.org/jucs_16_12/an_agent_based_architecture.html)]
+
+- (*IGI Global book chapter'10*) **A multi-agent simulation of kidney function for medical education** (Wang et al.) — *in* Multi-Agent Systems for Healthcare Simulation and Modeling
+  [[📝 Paper](https://doi.org/10.4018/978-1-60566-772-0.ch010)]
+
+- (*IGI Global book chapter'10*) **Operating room simulation and agent-based optimization** (Peng et al.) — *in* Multi-Agent Systems for Healthcare Simulation and Modeling
+  [[📝 Paper](https://doi.org/10.4018/978-1-60566-772-0.ch005)]
+
+- (*IEEE Trans. Med. Imaging'09 / online'10*) **User-agent cooperation in multiagent IVUS image segmentation** (Bovenkamp et al.)
+  [[📝 Paper](https://doi.org/10.1109/tmi.2008.927351)]
+
+#### 2009
+
+- (*Int. J. Telemed. Appl.'09*) **Enhancing E-health information systems with agent technology** (Nguyen et al.)
+  [[📝 Paper](https://doi.org/10.1155/2009/279091)]
+
+- (*Int. J. Comput. Integr. Manuf.'09*) **Agent-services and mobile agents for an integrated HCIS** (Bouchoul & Mostefai)
+  [[📝 Paper](https://doi.org/10.1080/09511920802537979)]
+
+- (*FUZZ-IEEE'09*) **Intelligent ontological multi-agent for healthy diet planning** (Wang et al.)
+  [[📝 Paper](https://doi.org/10.1109/fuzzy.2009.5277049)]
+
+- (*Appl. Intell.'09*) **HealthAgents: distributed multi-agent brain tumor diagnosis and prognosis** (González-Vélez et al.) — *Crossref online year 2007; print commonly cited as 2009*
+  [[📝 Paper](https://doi.org/10.1007/s10489-007-0085-8)]
+
+- (*Expert Syst. Appl.'09*) **Modeling and implementing an agent-based environmental health impact decision support system** (Sokolova & Fernández-Caballero)
+  [[📝 Paper](https://doi.org/10.1016/j.eswa.2008.01.041)]
+
+#### Dissertation (2014; in-scope)
+
+- (*UAB PhD Thesis'14*) **Agent based virtual electronic patient record: from intra to inter-institution data integration** (Vieira-Marques) — *institutional repository landing pages vary; search by title in [TDX](https://www.tdx.cat/) or author’s current affiliation.*
 
 ---
 
