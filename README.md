@@ -16,11 +16,11 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 
 ## 📌 Contents
 
-- [Self-Evolving AI Papers](#-self-evolving-ai-papers)
+- [Self-Evolving AI Papers](#-self-evolving-ai-papers) (#agent-based-healthcare-systems-2023-Now)
 - [Survey Papers](#-survey-papers)
 - [Classic agent-based health care (2002–2008)](#classic-agent-based-health-care-2002-2008)
 - [Agent-based healthcare systems (2009–2014)](#agent-based-healthcare-systems-2009-2014)
-- [Agent-based healthcare systems (2007–2023)](#agent-based-healthcare-systems-2007-2023)
+- [Agent-based healthcare systems (2015–2022)](#agent-based-healthcare-systems-2015-2022)
 - [By Topic](#-by-topic)
 - [Related Repositories](#-related-repositories)
 - [Contributing](#-contributing)
@@ -678,9 +678,9 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 
 - (*UAB PhD Thesis'14*) **Agent based virtual electronic patient record: from intra to inter-institution data integration** (Vieira-Marques) — *institutional repository landing pages vary; search by title in [TDX](https://www.tdx.cat/) or author’s current affiliation.*
 
-### Agent-based healthcare systems (2007–2023)
+### Agent-based healthcare systems (2015-2022)
 
-> **Software-agent / multi-agent systems** for care delivery, clinical decision support, telehealth, or ambient assisted living, with **first publication in 2007–2023** — this block **adds Crossref DOI–verified agent-for-healthcare applications** complementing the year windows above.  
+> **Software-agent / multi-agent systems** for care delivery, clinical decision support, telehealth, or ambient assisted living, with **first publication in 2015-2022** — this block **adds Crossref DOI–verified agent-for-healthcare applications** complementing the year windows above.  
 > **Excluded** (same curation policy): epidemic/biological ABM and platform-only papers without care-oriented agent behavior; see **Curation scope** under [Contributing](#-contributing).
 
 #### 2021
