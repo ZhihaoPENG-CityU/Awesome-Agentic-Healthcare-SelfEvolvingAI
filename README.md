@@ -27,7 +27,7 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 
 ---
 
-## 📝 Self-Evolving AI Papers
+## 📝 Self-Evolving AI Papers (2023–Now)
 
 > Entries are sorted by year in descending order.
 
