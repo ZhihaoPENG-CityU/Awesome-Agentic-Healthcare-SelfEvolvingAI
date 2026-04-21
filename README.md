@@ -193,6 +193,9 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 - (*arXiv'26*) **SEARL: Joint Optimization of Policy and Tool Graph Memory for Self-Evolving Agents**
   [[📝 Paper](https://arxiv.org/abs/2604.07791)]
 
+- (*arXiv'26*) **Mem^2Evolve: Towards Self-Evolving Agents via Co-Evolutionary Capability Expansion and Experience Distillation**
+  [[📝 Paper](https://arxiv.org/abs/2604.10923)] [[💻 Code](https://buaa-irip-llm.github.io/Mem2Evolve)]
+
 - (*arXiv'26*) **Seeing Through Experts' Eyes: A Foundational Vision Language Model Trained on Radiologists' Gaze and Reasoning**
   [[📝 Paper](https://arxiv.org/abs/2604.14316)]
 
@@ -1078,6 +1081,9 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 
 - (*arXiv'26*) **OpenHospital: A Thing-in-itself Arena for Evolving and Benchmarking LLM-based Collective Intelligence**
   [[📝 Paper](https://arxiv.org/abs/2603.14771)] [[💻 Code](https://github.com/ZJU-LLMs/Agent-Kernel/tree/main/demo/OpenHospital)]
+
+- (*arXiv'26*) **Mem^2Evolve: Towards Self-Evolving Agents via Co-Evolutionary Capability Expansion and Experience Distillation**
+  [[📝 Paper](https://arxiv.org/abs/2604.10923)] [[💻 Code](https://buaa-irip-llm.github.io/Mem2Evolve)]
 
 - (*arXiv'24*) **Agent Hospital: A Simulacrum of Hospital with Evolvable Medical Agents**
   [[📝 Paper](https://arxiv.org/abs/2405.02957)]
