@@ -1,11 +1,11 @@
 <h1 align="center">
-  <strong>Awesome-Self-Evolving-AI-for-Agentic-Healthcare</strong>
+  <strong>Awesome-Healthcare-SelfEvolvingAI</strong>
 </h1>
 
 <div align="center">
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![GitHub stars](https://img.shields.io/github/stars/ZhihaoPENG-CityU/Awesome-Self-Evolving-AI-for-Agentic-Healthcare?style=social)](https://github.com/ZhihaoPENG-CityU/Awesome-Self-Evolving-AI-for-Agentic-Healthcare)
+[![GitHub stars](https://img.shields.io/github/stars/ZhihaoPENG-CityU/Awesome-Healthcare-SelfEvolvingAI?style=social)](https://github.com/ZhihaoPENG-CityU/Awesome-Healthcare-SelfEvolvingAI)
 [![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg)](#-contributing)
 
 A curated list of papers and open-source resources on **self-evolving AI for agentic healthcare**, including **medical diagnosis**, **biomedical research**, **medical imaging**, **clinical simulation**, and **general self-evolving agent frameworks** relevant to healthcare.
@@ -1165,11 +1165,11 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 
 ## ⭐ Star History
 
-<a href="https://www.star-history.com/?repos=ZhihaoPENG-CityU%2FAwesome-Self-Evolving-AI-for-Agentic-Healthcare&type=date&legend=top-left">
+<a href="https://www.star-history.com/?repos=ZhihaoPENG-CityU%2FAwesome-Healthcare-SelfEvolvingAI&type=date&legend=top-left">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/image?repos=ZhihaoPENG-CityU/Awesome-Self-Evolving-AI-for-Agentic-Healthcare&type=date&theme=dark&legend=top-left" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/image?repos=ZhihaoPENG-CityU/Awesome-Self-Evolving-AI-for-Agentic-Healthcare&type=date&legend=top-left" />
-   <img alt="Star History Chart" src="https://api.star-history.com/image?repos=ZhihaoPENG-CityU/Awesome-Self-Evolving-AI-for-Agentic-Healthcare&type=date&legend=top-left" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/image?repos=ZhihaoPENG-CityU/Awesome-Healthcare-SelfEvolvingAI&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/image?repos=ZhihaoPENG-CityU/Awesome-Healthcare-SelfEvolvingAI&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/image?repos=ZhihaoPENG-CityU/Awesome-Healthcare-SelfEvolvingAI&type=date&legend=top-left" />
  </picture>
 </a>
 
