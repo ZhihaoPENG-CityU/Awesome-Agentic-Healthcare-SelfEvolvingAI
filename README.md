@@ -136,6 +136,9 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 - (*arXiv'26*) **EvoScientist: Towards Multi-Agent Evolving AI Scientists for End-to-End Scientific Discovery**
   [[📝 Paper](https://arxiv.org/pdf/2603.08127)]
 
+- (*arXiv'26*) **From Research Question to Scientific Workflow: Leveraging Agentic AI for Science Automation**
+  [[📝 Paper](https://arxiv.org/abs/2604.21910)]
+
 - (*arXiv'26*) **Med-Evo: Test-time Self-evolution for Medical Multimodal Large Language Models**
   [[📝 Paper](https://arxiv.org/abs/2603.07443)]
 
@@ -213,6 +216,9 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 
 - (*Expert Syst. Appl.'26*) **CARE: A clinical agentic reasoning engine to enhance real-World diagnostic accuracy via structured medical reasoning**
   [[📝 Paper](https://doi.org/10.1016/j.eswa.2026.131476)]
+
+- (*arXiv'26*) **Trustworthy Clinical Decision Support Using Meta-Predicates and Domain-Specific Languages**
+  [[📝 Paper](https://arxiv.org/abs/2604.21263)]
 
 - (*arXiv'26*) **EMSDialog: Synthetic Multi-person Emergency Medical Service Dialogue Generation from Electronic Patient Care Reports via Multi-LLM Agents**
   [[📝 Paper](https://arxiv.org/abs/2604.07549)]
