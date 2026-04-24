@@ -256,6 +256,12 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 - (*arXiv'26*) **AutoSkill: Experience-Driven Lifelong Learning via Skill Self-Evolution**
   [[📝 Paper](https://arxiv.org/abs/2603.01145)] [[💻 Code](https://github.com/ECNU-ICALK/AutoSkill)]
 
+- (*arXiv'26*) **MedSkillAudit: A Domain-Specific Audit Framework for Medical Research Agent Skills**
+  [[📝 Paper](https://arxiv.org/abs/2604.20441)]
+
+- (*arXiv'26*) **Learning to Evolve: A Self-Improving Framework for Multi-Agent Systems via Textual Parameter Graph Optimization**
+  [[📝 Paper](https://arxiv.org/abs/2604.20714)]
+
 - (*arXiv'26*) **CARE: Privacy-Compliant Agentic Reasoning with Evidence Discordance**
   [[📝 Paper](https://arxiv.org/abs/2604.01113)]
 
