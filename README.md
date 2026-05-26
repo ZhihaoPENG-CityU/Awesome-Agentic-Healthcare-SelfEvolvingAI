@@ -88,6 +88,24 @@ Entries in the following sections are tagged **`[Core]`** or **`[Related·X]`**.
 
 ### 2026
 
+- [Related·B] (*arXiv'26_05*) **LipoAgent: Coordinating Fine-Tuned LLM Agents for Safer Lipid Design**
+  [[📝 Paper](https://arxiv.org/abs/2605.25250)] [[💻 Code](https://github.com/SAI-Lab-NYU/LipoAgent)]
+
+- [Related·A] (*arXiv'26_05*) **A Sober Look at Agentic Misalignment in Automated Workflows**
+  [[📝 Paper](https://arxiv.org/abs/2605.24197)]
+
+- [Related·A] (*arXiv'26_05*) **SkillEvolBench: Benchmarking the Evolution from Episodic Experience to Procedural Skills**
+  [[📝 Paper](https://arxiv.org/abs/2605.24117)]
+
+- [Related·D] (*arXiv'26_05*) **Towards Trustworthy Agentic AI: A Comprehensive Survey of Safety, Robustness, Privacy, and System Security**
+  [[📝 Paper](https://arxiv.org/abs/2605.23989)]
+
+- [Core] (*arXiv'26_05*) **MEMOR-E: In-Context and Fine-Tuned LLM Personalization for Alzheimer's Assistive Robotics**
+  [[📝 Paper](https://arxiv.org/abs/2605.23941)]
+
+- [Core] (*arXiv'26_05*) **ClinSeekAgent: Automating Multimodal Evidence Seeking for Agentic Clinical Reasoning**
+  [[📝 Paper](https://arxiv.org/abs/2605.20176)]
+
 - [Core] (*arXiv'26_05*) **SEMA-RAG: A Self-Evolving Multi-Agent Retrieval-Augmented Generation Framework for Medical Reasoning**
   [[📝 Paper](https://arxiv.org/abs/2605.17101)]
 
@@ -102,6 +120,9 @@ Entries in the following sections are tagged **`[Core]`** or **`[Related·X]`**.
 
 - [Related·B] (*arXiv'26_05*) **Agentifying Patient Dynamics within LLMs through Interacting with Clinical World Model**
   [[📝 Paper](https://arxiv.org/abs/2605.14723)] [[💻 Code](https://github.com/FreedomIntelligence/SepsisAgent)]
+
+- [Core] (*arXiv'26_05*) **DermAgent: A Self-Reflective Agentic System for Dermatological Image Analysis with Multi-Tool Reasoning and Traceable Decision-Making**
+  [[📝 Paper](https://arxiv.org/abs/2605.14403)] [[💻 Code](https://github.com/YizeezLiu/DermAgent)]
 
 - [Related·A] (*arXiv'26_05*) **LongMemEval-V2: Evaluating Long-Term Agent Memory Toward Experienced Colleagues**
   [[📝 Paper](https://arxiv.org/abs/2605.12493)]

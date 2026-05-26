@@ -15,6 +15,9 @@ Regenerate with: `python scripts/sort_papers_readme.py --write-indexes`
 - (2026) **A Self-Evolving Framework for Efficient Terminal Agents via Observational Context Compression**
 [[📝 Paper](https://arxiv.org/abs/2604.19572)]
 
+- (2026) **A Sober Look at Agentic Misalignment in Automated Workflows**
+[[📝 Paper](https://arxiv.org/abs/2605.24197)]
+
 - (2026) **A Unified Agent-Enabled Platform for Drug Repurposing across Molecular, Phenotypic, and Clinical Scales**
 [[📝 Paper](https://www.biorxiv.org/content/10.64898/2026.04.19.719462v1)]
 
@@ -126,6 +129,9 @@ Regenerate with: `python scripts/sort_papers_readme.py --write-indexes`
 - (2026) **ClinicalReTrial: A Self-Evolving AI Agent for Clinical Trial Protocol Optimization**
 [[📝 Paper](https://arxiv.org/abs/2601.00290)]
 
+- (2026) **ClinSeekAgent: Automating Multimodal Evidence Seeking for Agentic Clinical Reasoning**
+[[📝 Paper](https://arxiv.org/abs/2605.20176)]
+
 - (2026) **Closing Reasoning Gaps in Clinical Agents with Differential Reasoning Learning**
 [[📝 Paper](https://arxiv.org/abs/2602.09945)]
 
@@ -156,6 +162,9 @@ Regenerate with: `python scripts/sort_papers_readme.py --write-indexes`
 - (2026) **DeepER-Med: Advancing Deep Evidence-Based Research in Medicine Through Agentic AI**
 [[📝 Paper](https://arxiv.org/abs/2604.15456)]
 
+- (2026) **DermAgent: A Self-Reflective Agentic System for Dermatological Image Analysis with Multi-Tool Reasoning and Traceable Decision-Making**
+[[📝 Paper](https://arxiv.org/abs/2605.14403)] [[💻 Code](https://github.com/YizeezLiu/DermAgent)]
+
 - (2026) **Detecting Clinical Discrepancies in Health Coaching Agents: A Dual-Stream Memory and Reconciliation Architecture**
 [[📝 Paper](https://arxiv.org/abs/2604.27045)]
 
@@ -170,6 +179,9 @@ Regenerate with: `python scripts/sort_papers_readme.py --write-indexes`
 
 - (2026) **Doctorina MedBench: End-to-End Evaluation of Agent-Based Medical AI**
 [[📝 Paper](https://arxiv.org/pdf/2603.25821)]
+
+- (2026) **DrugSAGE: Self-evolving Agent Experience for Efficient State-of-the-Art Drug Discovery**
+[[📝 Paper](https://arxiv.org/abs/2605.15461)]
 
 - (2026) **EMSDialog: Synthetic Multi-person Emergency Medical Service Dialogue Generation from Electronic Patient Care Reports via Multi-LLM Agents**
 [[📝 Paper](https://arxiv.org/abs/2604.07549)]
@@ -273,6 +285,9 @@ Regenerate with: `python scripts/sort_papers_readme.py --write-indexes`
 - (2026) **Learning to Evolve: A Self-Improving Framework for Multi-Agent Systems via Textual Parameter Graph Optimization**
 [[📝 Paper](https://arxiv.org/abs/2604.20714)]
 
+- (2026) **LipoAgent: Coordinating Fine-Tuned LLM Agents for Safer Lipid Design**
+[[📝 Paper](https://arxiv.org/abs/2605.25250)] [[💻 Code](https://github.com/SAI-Lab-NYU/LipoAgent)]
+
 - (2026) **LLM as Clinical Graph Structure Refiner: Enhancing Representation Learning in EEG Seizure Diagnosis**
 [[📝 Paper](https://arxiv.org/abs/2604.28178)]
 
@@ -320,6 +335,9 @@ Regenerate with: `python scripts/sort_papers_readme.py --write-indexes`
 
 - (2026) **MemMA: Coordinating the Memory Cycle through Multi-Agent Reasoning and In-Situ Self-Evolution**
 [[📝 Paper](https://arxiv.org/abs/2603.18718)]
+
+- (2026) **MEMOR-E: In-Context and Fine-Tuned LLM Personalization for Alzheimer's Assistive Robotics**
+[[📝 Paper](https://arxiv.org/abs/2605.23941)]
 
 - (2026) **MemTier: Tiered Memory Architecture and Retrieval Bottleneck Analysis for Long-Running Autonomous AI Agents**
 [[📝 Paper](https://arxiv.org/abs/2605.03675)]
@@ -405,6 +423,9 @@ Regenerate with: `python scripts/sort_papers_readme.py --write-indexes`
 - (2026) **Self-evolving AI agents for protein discovery and directed evolution**
 [[📝 Paper](https://arxiv.org/abs/2603.27303)] [[💻 Code](https://github.com/ai4protein/VenusFactory2)]
 
+- (2026) **SEMA-RAG: A Self-Evolving Multi-Agent Retrieval-Augmented Generation Framework for Medical Reasoning**
+[[📝 Paper](https://arxiv.org/abs/2605.17101)]
+
 - (2026) **Skill Retrieval Augmentation for Agentic AI**
 [[📝 Paper](https://arxiv.org/abs/2604.24594)] [[💻 Code](https://github.com/oneal2000/SR-Agents)]
 
@@ -413,6 +434,9 @@ Regenerate with: `python scripts/sort_papers_readme.py --write-indexes`
 
 - (2026) **SkillEvo: An Experience Learning Framework with Reinforcement Learning for Skill Evolution**
 [[📝 Paper](https://openreview.net/forum?id=S1cIE9pe3k)]
+
+- (2026) **SkillEvolBench: Benchmarking the Evolution from Episodic Experience to Procedural Skills**
+[[📝 Paper](https://arxiv.org/abs/2605.24117)]
 
 - (2026) **SkillEvolver: Dynamic Skill Lifecycle Management for Agentic RL**
 [[📝 Paper](https://arxiv.org/abs/2603.17187)] [[💻 Code](https://github.com/aiming-lab/MetaClaw)]
@@ -446,6 +470,9 @@ Regenerate with: `python scripts/sort_papers_readme.py --write-indexes`
 
 - (2026) **Tool-Genesis: A Task-Driven Tool Creation Benchmark for Self-Evolving Language Agent**
 [[📝 Paper](https://arxiv.org/pdf/2603.05578)]
+
+- (2026) **Towards Trustworthy Agentic AI: A Comprehensive Survey of Safety, Robustness, Privacy, and System Security**
+[[📝 Paper](https://arxiv.org/abs/2605.23989)]
 
 - (2026) **Transient Turn Injection: Exposing Stateless Multi-Turn Vulnerabilities in Large Language Models**
 [[📝 Paper](https://arxiv.org/abs/2604.21860)]

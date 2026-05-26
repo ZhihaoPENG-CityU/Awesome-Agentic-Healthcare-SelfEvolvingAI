@@ -16,6 +16,9 @@ Regenerate with: `python scripts/sort_papers_readme.py --write-indexes`
 - **A Self-Evolving Framework for Efficient Terminal Agents via Observational Context Compression** — *Unknown* · **2026**
   [[📝 Paper](https://arxiv.org/abs/2604.19572)]
 
+- **A Sober Look at Agentic Misalignment in Automated Workflows** — *Unknown* · **2026**
+  [[📝 Paper](https://arxiv.org/abs/2605.24197)]
+
 - **A Unified Agent-Enabled Platform for Drug Repurposing across Molecular, Phenotypic, and Clinical Scales** — *Unknown* · **2026**
   [[📝 Paper](https://www.biorxiv.org/content/10.64898/2026.04.19.719462v1)]
 
@@ -148,6 +151,9 @@ Regenerate with: `python scripts/sort_papers_readme.py --write-indexes`
 - **ClinicalReTrial: A Self-Evolving AI Agent for Clinical Trial Protocol Optimization** — *Unknown* · **2026**
   [[📝 Paper](https://arxiv.org/abs/2601.00290)]
 
+- **ClinSeekAgent: Automating Multimodal Evidence Seeking for Agentic Clinical Reasoning** — *Unknown* · **2026**
+  [[📝 Paper](https://arxiv.org/abs/2605.20176)]
+
 - **Closing Reasoning Gaps in Clinical Agents with Differential Reasoning Learning** — *Unknown* · **2026**
   [[📝 Paper](https://arxiv.org/abs/2602.09945)]
 
@@ -187,6 +193,9 @@ Regenerate with: `python scripts/sort_papers_readme.py --write-indexes`
 - **Depression Diagnosis Dialogue Simulation: Self-improving Psychiatrist with Tertiary Memory** — *Unknown* · **2024**
   [[📝 Paper](https://arxiv.org/abs/2409.15084)]
 
+- **DermAgent: A Self-Reflective Agentic System for Dermatological Image Analysis with Multi-Tool Reasoning and Traceable Decision-Making** — *Unknown* · **2026**
+  [[📝 Paper](https://arxiv.org/abs/2605.14403)] [[💻 Code](https://github.com/YizeezLiu/DermAgent)]
+
 - **Detecting Clinical Discrepancies in Health Coaching Agents: A Dual-Stream Memory and Reconciliation Architecture** — *Unknown* · **2026**
   [[📝 Paper](https://arxiv.org/abs/2604.27045)]
 
@@ -207,6 +216,9 @@ Regenerate with: `python scripts/sort_papers_readme.py --write-indexes`
 
 - **Doctorina MedBench: End-to-End Evaluation of Agent-Based Medical AI** — *Unknown* · **2026**
   [[📝 Paper](https://arxiv.org/pdf/2603.25821)]
+
+- **DrugSAGE: Self-evolving Agent Experience for Efficient State-of-the-Art Drug Discovery** — *Unknown* · **2026**
+  [[📝 Paper](https://arxiv.org/abs/2605.15461)]
 
 - **EMSDialog: Synthetic Multi-person Emergency Medical Service Dialogue Generation from Electronic Patient Care Reports via Multi-LLM Agents** — *Unknown* · **2026**
   [[📝 Paper](https://arxiv.org/abs/2604.07549)]
@@ -349,6 +361,9 @@ Regenerate with: `python scripts/sort_papers_readme.py --write-indexes`
 - **Learning to Evolve: A Self-Improving Framework for Multi-Agent Systems via Textual Parameter Graph Optimization** — *Unknown* · **2026**
   [[📝 Paper](https://arxiv.org/abs/2604.20714)]
 
+- **LipoAgent: Coordinating Fine-Tuned LLM Agents for Safer Lipid Design** — *Unknown* · **2026**
+  [[📝 Paper](https://arxiv.org/abs/2605.25250)] [[💻 Code](https://github.com/SAI-Lab-NYU/LipoAgent)]
+
 - **LLM as Clinical Graph Structure Refiner: Enhancing Representation Learning in EEG Seizure Diagnosis** — *Unknown* · **2026**
   [[📝 Paper](https://arxiv.org/abs/2604.28178)]
 
@@ -420,6 +435,9 @@ Regenerate with: `python scripts/sort_papers_readme.py --write-indexes`
 
 - **MemMA: Coordinating the Memory Cycle through Multi-Agent Reasoning and In-Situ Self-Evolution** — *Unknown* · **2026**
   [[📝 Paper](https://arxiv.org/abs/2603.18718)]
+
+- **MEMOR-E: In-Context and Fine-Tuned LLM Personalization for Alzheimer's Assistive Robotics** — *Unknown* · **2026**
+  [[📝 Paper](https://arxiv.org/abs/2605.23941)]
 
 - **MemTier: Tiered Memory Architecture and Retrieval Bottleneck Analysis for Long-Running Autonomous AI Agents** — *Unknown* · **2026**
   [[📝 Paper](https://arxiv.org/abs/2605.03675)]
@@ -531,6 +549,9 @@ Regenerate with: `python scripts/sort_papers_readme.py --write-indexes`
 - **SeM-Agents: A Self-Evolving Framework for Multi-Agent Medical Consultation Based on Large Language Models** — *Unknown* · **2025**
   [[📝 Paper](https://ieeexplore.ieee.org/abstract/document/10889517)]
 
+- **SEMA-RAG: A Self-Evolving Multi-Agent Retrieval-Augmented Generation Framework for Medical Reasoning** — *Unknown* · **2026**
+  [[📝 Paper](https://arxiv.org/abs/2605.17101)]
+
 - **Silence is Not Consensus: Disrupting Agreement Bias in Multi-Agent LLMs via Catfish Agent for Clinical Decision Making** — *Unknown* · **2025**
   [[📝 Paper](https://arxiv.org/abs/2505.21503)]
 
@@ -545,6 +566,9 @@ Regenerate with: `python scripts/sort_papers_readme.py --write-indexes`
 
 - **SkillEvo: An Experience Learning Framework with Reinforcement Learning for Skill Evolution** — *Unknown* · **2026**
   [[📝 Paper](https://openreview.net/forum?id=S1cIE9pe3k)]
+
+- **SkillEvolBench: Benchmarking the Evolution from Episodic Experience to Procedural Skills** — *Unknown* · **2026**
+  [[📝 Paper](https://arxiv.org/abs/2605.24117)]
 
 - **SkillEvolver: Dynamic Skill Lifecycle Management for Agentic RL** — *Unknown* · **2026**
   [[📝 Paper](https://arxiv.org/abs/2603.17187)] [[💻 Code](https://github.com/aiming-lab/MetaClaw)]
@@ -581,6 +605,9 @@ Regenerate with: `python scripts/sort_papers_readme.py --write-indexes`
 
 - **Towards Conversational Diagnostic AI (AMIE)** — *Unknown* · **2024**
   [[📝 Paper](https://www.nature.com/articles/s41586-025-08866-7)]
+
+- **Towards Trustworthy Agentic AI: A Comprehensive Survey of Safety, Robustness, Privacy, and System Security** — *Unknown* · **2026**
+  [[📝 Paper](https://arxiv.org/abs/2605.23989)]
 
 - **Transient Turn Injection: Exposing Stateless Multi-Turn Vulnerabilities in Large Language Models** — *Unknown* · **2026**
   [[📝 Paper](https://arxiv.org/abs/2604.21860)]
