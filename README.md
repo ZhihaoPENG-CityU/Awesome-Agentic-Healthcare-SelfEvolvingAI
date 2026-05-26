@@ -88,6 +88,12 @@ Entries in the following sections are tagged **`[Core]`** or **`[Related·X]`**.
 
 ### 2026
 
+- [Core] (*arXiv'26_05*) **SEMA-RAG: A Self-Evolving Multi-Agent Retrieval-Augmented Generation Framework for Medical Reasoning**
+  [[📝 Paper](https://arxiv.org/abs/2605.17101)]
+
+- [Core] (*arXiv'26_05*) **DrugSAGE: Self-evolving Agent Experience for Efficient State-of-the-Art Drug Discovery**
+  [[📝 Paper](https://arxiv.org/abs/2605.15461)]
+
 - [Related·A] (*arXiv'26_05*) **GraphFlow: An Architecture for Formally Verifiable Visual Workflows Enabling Reliable Agentic AI Automation**
   [[📝 Paper](https://arxiv.org/abs/2605.14968)]
 
