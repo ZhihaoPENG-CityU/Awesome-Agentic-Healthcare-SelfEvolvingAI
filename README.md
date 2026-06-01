@@ -103,6 +103,9 @@ Entries in the following sections are tagged **`[Core]`** or **`[Related·X]`**.
 - [Core] (*arXiv'26_05*) **MEMOR-E: In-Context and Fine-Tuned LLM Personalization for Alzheimer's Assistive Robotics**
   [[📝 Paper](https://arxiv.org/abs/2605.23941)]
 
+- [Core] (*arXiv'26_05*) **MedExpMem: Adapting Experience Memory for Differential Diagnosis**
+  [[📝 Paper](https://arxiv.org/abs/2605.22872)]
+
 - [Core] (*arXiv'26_05*) **ClinSeekAgent: Automating Multimodal Evidence Seeking for Agentic Clinical Reasoning**
   [[📝 Paper](https://arxiv.org/abs/2605.20176)]
 
@@ -144,6 +147,9 @@ Entries in the following sections are tagged **`[Core]`** or **`[Related·X]`**.
 
 - [Related·A] (*arXiv'26_05*) **Continual Harness: Online Adaptation for Self-Improving Foundation Agents**
   [[📝 Paper](https://arxiv.org/abs/2605.09998)]
+
+- [Core] (*arXiv'26_05*) **CodeClinic: Evaluating Automation of Coding Skills for Clinical Reasoning Agents**
+  [[📝 Paper](https://arxiv.org/abs/2605.09675)]
 
 - [Related·A] (*arXiv'26_05*) **MCP-Cosmos: World Model-Augmented Agents for Complex Task Execution in MCP Environments**
   [[📝 Paper](https://arxiv.org/abs/2605.09131)]
