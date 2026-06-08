@@ -88,6 +88,24 @@ Entries in the following sections are tagged **`[Core]`** or **`[Related·X]`**.
 
 ### 2026
 
+- [Related·B] (*arXiv'26_06*) **An Infectious Disease Spread Simulation Based on Large Language Model Decision Making**
+  [[📝 Paper](https://arxiv.org/abs/2606.06360)]
+
+- [Core] (*arXiv'26_06*) **D2MDT: Department-aware Multidisciplinary Team Consultation with Deliberation for Efficient Clinical Prediction**
+  [[📝 Paper](https://arxiv.org/abs/2606.03543)] [[💻 Code](https://github.com/GigiResearch/D2MDT)]
+
+- [Core] (*arXiv'26_06*) **MeDxAgent: Multi-Agent Consultation for Interactive Medical Diagnosis**
+  [[📝 Paper](https://arxiv.org/abs/2606.03416)]
+
+- [Core] (*arXiv'26_06*) **Better with Experience: Self-Evolving LLM Agents for Evidence-Grounded Health Community Notes (EvoNote)**
+  [[📝 Paper](https://arxiv.org/abs/2606.02215)]
+
+- [Related·B] (*arXiv'26_06*) **Probe Before You Edit: Probing-Guided Molecular Optimization for LLM Agents in Structure-Based Drug Design**
+  [[📝 Paper](https://arxiv.org/abs/2606.00555)]
+
+- [Core] (*arXiv'26_05*) **SafeRx-Agent: A Knowledge-Grounded Multi-Agent Framework for Safe and Explainable Medication Recommendation**
+  [[📝 Paper](https://arxiv.org/abs/2605.29146)]
+
 - [Related·B] (*arXiv'26_05*) **LipoAgent: Coordinating Fine-Tuned LLM Agents for Safer Lipid Design**
   [[📝 Paper](https://arxiv.org/abs/2605.25250)] [[💻 Code](https://github.com/SAI-Lab-NYU/LipoAgent)]
 
@@ -558,6 +576,9 @@ Entries in the following sections are tagged **`[Core]`** or **`[Related·X]`**.
 
 - [Core] (*Nature Biomedical Engineering'26*) **BioMedAgent: A Self-Evolving LLM Multi-Agent Framework for Autonomous, Tool-Aware Biomedical Data Analyses**
   [[📝 Paper](https://www.nature.com/articles/s41551-026-01634-6)] [[🌐 Project](http://biomed.drai.cn)] [[💻 Code](https://github.com/BOBQWERA/BioMedAgent)]
+
+- [Core] (*npj Digital Medicine'26*) **Human-AI co-design for clinical prediction models (HACHI)**
+  [[📝 Paper](https://www.nature.com/articles/s41746-026-02838-5)] [[💻 Code](https://github.com/jjfenglab/HACHI)]
 
 - [Related·A] (*GitHub'26*) **EverOS: Build, evaluate, and integrate long-term memory for self-evolving agents**
   [[💻 Code](https://github.com/EverMind-AI/EverOS)]

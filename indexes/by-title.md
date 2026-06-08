@@ -88,6 +88,9 @@ Regenerate with: `python scripts/sort_papers_readme.py --write-indexes`
 - **An Empirical Study of Agent Skills for Healthcare: Practice, Gaps, and Governance** — *Unknown* · **2026**
   [[📝 Paper](https://arxiv.org/abs/2605.02709)]
 
+- **An Infectious Disease Spread Simulation Based on Large Language Model Decision Making** — *Unknown* · **2026**
+  [[📝 Paper](https://arxiv.org/abs/2606.06360)]
+
 - **ARA: Agentic Reproducibility Assessment for Scalable Support of Scientific Peer-Review** — *Unknown* · **2026**
   [[📝 Paper](https://arxiv.org/abs/2605.02651)] [[💻 Code](https://github.com/AndresLaverdeMarin/agentic_reproducibility_assessment)]
 
@@ -111,6 +114,9 @@ Regenerate with: `python scripts/sort_papers_readme.py --write-indexes`
 
 - **BAAI Cardiac Agent: An intelligent multimodal agent for automated reasoning and diagnosis of cardiovascular diseases from cardiac magnetic resonance imaging** — *Unknown* · **2026**
   [[📝 Paper](https://arxiv.org/abs/2604.04078)] [[💻 Code](https://github.com/plantain-herb/Cardiac-Agent)]
+
+- **Better with Experience: Self-Evolving LLM Agents for Evidence-Grounded Health Community Notes (EvoNote)** — *Unknown* · **2026**
+  [[📝 Paper](https://arxiv.org/abs/2606.02215)]
 
 - **BioMedAgent: A Self-Evolving LLM Multi-Agent Framework for Autonomous, Tool-Aware Biomedical Data Analyses** — *Unknown* · **2026**
   [[📝 Paper](https://www.nature.com/articles/s41551-026-01634-6)] [[🌐 Project](http://biomed.drai.cn)] [[💻 Code](https://github.com/BOBQWERA/BioMedAgent)]
@@ -186,6 +192,9 @@ Regenerate with: `python scripts/sort_papers_readme.py --write-indexes`
 
 - **CuraView: A Multi-Agent Framework for Medical Hallucination Detection with GraphRAG-Enhanced Knowledge Verification** — *Unknown* · **2026**
   [[📝 Paper](https://arxiv.org/abs/2605.03476)]
+
+- **D2MDT: Department-aware Multidisciplinary Team Consultation with Deliberation for Efficient Clinical Prediction** — *Unknown* · **2026**
+  [[📝 Paper](https://arxiv.org/abs/2606.03543)] [[💻 Code](https://github.com/GigiResearch/D2MDT)]
 
 - **DeepER-Med: Advancing Deep Evidence-Based Research in Medicine Through Agentic AI** — *Unknown* · **2026**
   [[📝 Paper](https://arxiv.org/abs/2604.15456)]
@@ -331,6 +340,9 @@ Regenerate with: `python scripts/sort_papers_readme.py --write-indexes`
 - **How Well Do Multimodal Models Reason on ECG Signals?** — *Unknown* · **2026**
   [[📝 Paper](https://arxiv.org/abs/2603.00312)]
 
+- **Human-AI co-design for clinical prediction models (HACHI)** — *Unknown* · **2026**
+  [[📝 Paper](https://www.nature.com/articles/s41746-026-02838-5)] [[💻 Code](https://github.com/jjfenglab/HACHI)]
+
 - **IBISAgent: Reinforcing Pixel-Level Visual Reasoning in MLLMs for Universal Biomedical Object Referring and Segmentation** — *Unknown* · **2026**
   [[📝 Paper](https://arxiv.org/abs/2601.03054)]
 
@@ -430,6 +442,9 @@ Regenerate with: `python scripts/sort_papers_readme.py --write-indexes`
 - **MedSynapse-V: Bridging Visual Perception and Clinical Intuition via Latent Memory Evolution** — *Unknown* · **2026**
   [[📝 Paper](https://arxiv.org/abs/2604.26283)]
 
+- **MeDxAgent: Multi-Agent Consultation for Interactive Medical Diagnosis** — *Unknown* · **2026**
+  [[📝 Paper](https://arxiv.org/abs/2606.03416)]
+
 - **Mem^2Evolve: Towards Self-Evolving Agents via Co-Evolutionary Capability Expansion and Experience Distillation** — *Unknown* · **2026**
   [[📝 Paper](https://arxiv.org/abs/2604.10923)] [[💻 Code](https://buaa-irip-llm.github.io/Mem2Evolve)]
 
@@ -496,6 +511,9 @@ Regenerate with: `python scripts/sort_papers_readme.py --write-indexes`
 - **Position: Agentic Evolution is the Path to Evolving LLMs** — *Unknown* · **2026**
   [[📝 Paper](https://arxiv.org/pdf/2602.00359v2)]
 
+- **Probe Before You Edit: Probing-Guided Molecular Optimization for LLM Agents in Structure-Based Drug Design** — *Unknown* · **2026**
+  [[📝 Paper](https://arxiv.org/abs/2606.00555)]
+
 - **PsychAgent: An Experience-Driven Lifelong Learning Agent for Self-Evolving Psychological Counselor** — *Unknown* · **2026**
   [[📝 Paper](https://arxiv.org/abs/2604.00931)]
 
@@ -522,6 +540,9 @@ Regenerate with: `python scripts/sort_papers_readme.py --write-indexes`
 
 - **S1-NexusAgent: a Self-Evolving Agent Framework for Multidisciplinary Scientific Research** — *Unknown* · **2026**
   [[📝 Paper](https://arxiv.org/abs/2602.01550)]
+
+- **SafeRx-Agent: A Knowledge-Grounded Multi-Agent Framework for Safe and Explainable Medication Recommendation** — *Unknown* · **2026**
+  [[📝 Paper](https://arxiv.org/abs/2605.29146)]
 
 - **SAGE: A Self-Evolving Agentic Graph-Memory Engine for Structure-Aware Associative Memory** — *Unknown* · **2026**
   [[📝 Paper](https://arxiv.org/abs/2605.12061)]

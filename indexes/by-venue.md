@@ -75,6 +75,9 @@ Regenerate with: `python scripts/sort_papers_readme.py --write-indexes`
 - (2026) **An Empirical Study of Agent Skills for Healthcare: Practice, Gaps, and Governance**
 [[📝 Paper](https://arxiv.org/abs/2605.02709)]
 
+- (2026) **An Infectious Disease Spread Simulation Based on Large Language Model Decision Making**
+[[📝 Paper](https://arxiv.org/abs/2606.06360)]
+
 - (2026) **ARA: Agentic Reproducibility Assessment for Scalable Support of Scientific Peer-Review**
 [[📝 Paper](https://arxiv.org/abs/2605.02651)] [[💻 Code](https://github.com/AndresLaverdeMarin/agentic_reproducibility_assessment)]
 
@@ -92,6 +95,9 @@ Regenerate with: `python scripts/sort_papers_readme.py --write-indexes`
 
 - (2026) **BAAI Cardiac Agent: An intelligent multimodal agent for automated reasoning and diagnosis of cardiovascular diseases from cardiac magnetic resonance imaging**
 [[📝 Paper](https://arxiv.org/abs/2604.04078)] [[💻 Code](https://github.com/plantain-herb/Cardiac-Agent)]
+
+- (2026) **Better with Experience: Self-Evolving LLM Agents for Evidence-Grounded Health Community Notes (EvoNote)**
+[[📝 Paper](https://arxiv.org/abs/2606.02215)]
 
 - (2026) **BioMedAgent: A Self-Evolving LLM Multi-Agent Framework for Autonomous, Tool-Aware Biomedical Data Analyses**
 [[📝 Paper](https://www.nature.com/articles/s41551-026-01634-6)] [[🌐 Project](http://biomed.drai.cn)] [[💻 Code](https://github.com/BOBQWERA/BioMedAgent)]
@@ -158,6 +164,9 @@ Regenerate with: `python scripts/sort_papers_readme.py --write-indexes`
 
 - (2026) **CuraView: A Multi-Agent Framework for Medical Hallucination Detection with GraphRAG-Enhanced Knowledge Verification**
 [[📝 Paper](https://arxiv.org/abs/2605.03476)]
+
+- (2026) **D2MDT: Department-aware Multidisciplinary Team Consultation with Deliberation for Efficient Clinical Prediction**
+[[📝 Paper](https://arxiv.org/abs/2606.03543)] [[💻 Code](https://github.com/GigiResearch/D2MDT)]
 
 - (2026) **DeepER-Med: Advancing Deep Evidence-Based Research in Medicine Through Agentic AI**
 [[📝 Paper](https://arxiv.org/abs/2604.15456)]
@@ -270,6 +279,9 @@ Regenerate with: `python scripts/sort_papers_readme.py --write-indexes`
 - (2026) **How Well Do Multimodal Models Reason on ECG Signals?**
 [[📝 Paper](https://arxiv.org/abs/2603.00312)]
 
+- (2026) **Human-AI co-design for clinical prediction models (HACHI)**
+[[📝 Paper](https://www.nature.com/articles/s41746-026-02838-5)] [[💻 Code](https://github.com/jjfenglab/HACHI)]
+
 - (2026) **IBISAgent: Reinforcing Pixel-Level Visual Reasoning in MLLMs for Universal Biomedical Object Referring and Segmentation**
 [[📝 Paper](https://arxiv.org/abs/2601.03054)]
 
@@ -330,6 +342,9 @@ Regenerate with: `python scripts/sort_papers_readme.py --write-indexes`
 - (2026) **MedSynapse-V: Bridging Visual Perception and Clinical Intuition via Latent Memory Evolution**
 [[📝 Paper](https://arxiv.org/abs/2604.26283)]
 
+- (2026) **MeDxAgent: Multi-Agent Consultation for Interactive Medical Diagnosis**
+[[📝 Paper](https://arxiv.org/abs/2606.03416)]
+
 - (2026) **Mem^2Evolve: Towards Self-Evolving Agents via Co-Evolutionary Capability Expansion and Experience Distillation**
 [[📝 Paper](https://arxiv.org/abs/2604.10923)] [[💻 Code](https://buaa-irip-llm.github.io/Mem2Evolve)]
 
@@ -387,6 +402,9 @@ Regenerate with: `python scripts/sort_papers_readme.py --write-indexes`
 - (2026) **Position: Agentic Evolution is the Path to Evolving LLMs**
 [[📝 Paper](https://arxiv.org/pdf/2602.00359v2)]
 
+- (2026) **Probe Before You Edit: Probing-Guided Molecular Optimization for LLM Agents in Structure-Based Drug Design**
+[[📝 Paper](https://arxiv.org/abs/2606.00555)]
+
 - (2026) **PsychAgent: An Experience-Driven Lifelong Learning Agent for Self-Evolving Psychological Counselor**
 [[📝 Paper](https://arxiv.org/abs/2604.00931)]
 
@@ -407,6 +425,9 @@ Regenerate with: `python scripts/sort_papers_readme.py --write-indexes`
 
 - (2026) **S1-NexusAgent: a Self-Evolving Agent Framework for Multidisciplinary Scientific Research**
 [[📝 Paper](https://arxiv.org/abs/2602.01550)]
+
+- (2026) **SafeRx-Agent: A Knowledge-Grounded Multi-Agent Framework for Safe and Explainable Medication Recommendation**
+[[📝 Paper](https://arxiv.org/abs/2605.29146)]
 
 - (2026) **SAGE: A Self-Evolving Agentic Graph-Memory Engine for Structure-Aware Associative Memory**
 [[📝 Paper](https://arxiv.org/abs/2605.12061)]
