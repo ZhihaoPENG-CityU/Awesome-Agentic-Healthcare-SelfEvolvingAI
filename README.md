@@ -97,6 +97,9 @@ Entries in the following sections are tagged **`[Core]`** or **`[Related·X]`**.
 - [Core] (*arXiv'26_06*) **MeDxAgent: Multi-Agent Consultation for Interactive Medical Diagnosis**
   [[📝 Paper](https://arxiv.org/abs/2606.03416)]
 
+- [Core] (*arXiv'26_06*) **Traj-Evolve: A Self-Evolving Multi-Agent System for Patient Trajectory Modeling in Lung Cancer Early Detection**
+  [[📝 Paper](https://arxiv.org/abs/2606.02812)]
+
 - [Core] (*arXiv'26_06*) **Better with Experience: Self-Evolving LLM Agents for Evidence-Grounded Health Community Notes (EvoNote)**
   [[📝 Paper](https://arxiv.org/abs/2606.02215)]
 
@@ -1154,6 +1157,9 @@ Entries in the following sections are tagged **`[Core]`** or **`[Related·X]`**.
 
 ### Medical Diagnosis and Consultation
 
+- [Core] (*arXiv'26_06*) **Traj-Evolve: A Self-Evolving Multi-Agent System for Patient Trajectory Modeling in Lung Cancer Early Detection**
+  [[📝 Paper](https://arxiv.org/abs/2606.02812)]
+
 - [Related·B] (*arXiv'26_03*) **MediHive: A Decentralized Agent Collective for Medical Question Answering**
   [[📝 Paper](https://arxiv.org/abs/2603.27150)]
 
@@ -1437,6 +1443,9 @@ Entries in the following sections are tagged **`[Core]`** or **`[Related·X]`**.
   [[📝 Paper](https://ijisae.org/index.php/IJISAE/article/view/7793)]
 
 ### Clinical Decision-Making and Trial Optimization
+
+- [Core] (*arXiv'26_06*) **Traj-Evolve: A Self-Evolving Multi-Agent System for Patient Trajectory Modeling in Lung Cancer Early Detection**
+  [[📝 Paper](https://arxiv.org/abs/2606.02812)]
 
 - [Related·B] (*arXiv'26_03*) **Symphony for Medical Coding: A Next-Generation Agentic System for Scalable and Explainable Medical Coding**
   [[📝 Paper](https://arxiv.org/abs/2603.29709)]

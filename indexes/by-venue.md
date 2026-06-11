@@ -495,6 +495,9 @@ Regenerate with: `python scripts/sort_papers_readme.py --write-indexes`
 - (2026) **Towards Trustworthy Agentic AI: A Comprehensive Survey of Safety, Robustness, Privacy, and System Security**
 [[📝 Paper](https://arxiv.org/abs/2605.23989)]
 
+- (2026) **Traj-Evolve: A Self-Evolving Multi-Agent System for Patient Trajectory Modeling in Lung Cancer Early Detection**
+[[📝 Paper](https://arxiv.org/abs/2606.02812)]
+
 - (2026) **Transient Turn Injection: Exposing Stateless Multi-Turn Vulnerabilities in Large Language Models**
 [[📝 Paper](https://arxiv.org/abs/2604.21860)]
 
