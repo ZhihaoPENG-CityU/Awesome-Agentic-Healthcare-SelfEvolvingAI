@@ -505,6 +505,9 @@ Regenerate with: `python scripts/sort_papers_readme.py --write-indexes`
 - **Perfecting Human–AI Interaction at Clinical Scale: Turning Production Signals into Safer, More Human Conversations** — *Unknown* · **2026**
   [[📝 Paper](https://arxiv.org/abs/2603.29893)]
 
+- **PharmAgents: Building a Virtual Pharma with Large Language Model Agents** — *Unknown* · **2025**
+  [[📝 Paper](https://arxiv.org/abs/2503.22164)]
+
 - **PhysicianBench: Evaluating LLM Agents in Real-World EHR Environments** — *Unknown* · **2026**
   [[📝 Paper](https://arxiv.org/abs/2605.02240)]
 

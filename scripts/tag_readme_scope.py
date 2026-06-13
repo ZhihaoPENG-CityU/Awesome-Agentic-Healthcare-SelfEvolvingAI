@@ -20,6 +20,7 @@ FORCE_CORE = [
     "ibisagent",
     "camyla",
     "lungcure:",
+    "pharmagents:",
     "esc-rl",
     "mmedagent-rl",
     "bioMedAgent".lower(),

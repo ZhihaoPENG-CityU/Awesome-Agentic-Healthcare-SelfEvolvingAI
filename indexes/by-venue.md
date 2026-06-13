@@ -615,6 +615,9 @@ Regenerate with: `python scripts/sort_papers_readme.py --write-indexes`
 - (2025) **PathFinder: A Multi-Modal Multi-Agent System for Medical Diagnostic Decision-Making Applied to Histopathology**
 [[📝 Paper](https://arxiv.org/pdf/2502.08916)]
 
+- (2025) **PharmAgents: Building a Virtual Pharma with Large Language Model Agents**
+[[📝 Paper](https://arxiv.org/abs/2503.22164)]
+
 - (2025) **RareAgent: Self-Evolving Reasoning for Drug Repurposing in Rare Diseases**
 [[📝 Paper](https://arxiv.org/abs/2510.05764)]
 

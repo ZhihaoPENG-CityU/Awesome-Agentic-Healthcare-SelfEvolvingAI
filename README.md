@@ -687,6 +687,9 @@ Entries in the following sections are tagged **`[Core]`** or **`[Related·X]`**.
 - [Core] (*MICCAI'25_03*) **MedAgentSim: Self-Evolving Multi-Agent Simulations for Realistic Clinical Interactions**
   [[📝 Paper](https://arxiv.org/pdf/2503.22678)] [[💻 Code](https://github.com/MAXNORM8650/MedAgentSim)]
 
+- [Core] (*arXiv'25_03*) **PharmAgents: Building a Virtual Pharma with Large Language Model Agents**
+  [[📝 Paper](https://arxiv.org/abs/2503.22164)]
+
 - [Core] (*ICLR'26_03*) **MedAgent-Pro: Towards Evidence-based Multi-modal Medical Diagnosis via Reasoning Agentic Workflow**
   [[📝 Paper](https://arxiv.org/abs/2503.18968)] [[🌐 ICLR](https://iclr.cc/virtual/2026/poster/10008810)] [[💻 Code](https://github.com/jinlab-imvr/MedAgent-Pro)]
 
@@ -1363,6 +1366,9 @@ Entries in the following sections are tagged **`[Core]`** or **`[Related·X]`**.
   [[📝 Paper](https://arxiv.org/abs/2405.07960)] [[🌐 Project](https://agentclinic.github.io)] [[💻 Code](https://github.com/samuelschmidgall/agentclinic)]
 
 ### Biomedical and Healthcare Research
+
+- [Core] (*arXiv'25_03*) **PharmAgents: Building a Virtual Pharma with Large Language Model Agents**
+  [[📝 Paper](https://arxiv.org/abs/2503.22164)]
 
 - [Core] (*AACR Annual Meeting'26*) **Agentic AI as the Cancer Researcher: Autonomous Discovery in Oncology**
   [[🌐 Program](https://www.aacr.org/meeting/aacr-annual-meeting-2026/program/)]
