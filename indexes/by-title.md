@@ -115,6 +115,9 @@ Regenerate with: `python scripts/sort_papers_readme.py --write-indexes`
 - **BAAI Cardiac Agent: An intelligent multimodal agent for automated reasoning and diagnosis of cardiovascular diseases from cardiac magnetic resonance imaging** — *Unknown* · **2026**
   [[📝 Paper](https://arxiv.org/abs/2604.04078)] [[💻 Code](https://github.com/plantain-herb/Cardiac-Agent)]
 
+- **Baichuan-M4: A Clinical-Grade Medical Agent System for Continuous Care** — *Unknown* · **2026**
+  [[📝 Paper](https://arxiv.org/abs/2606.08982)]
+
 - **Better with Experience: Self-Evolving LLM Agents for Evidence-Grounded Health Community Notes (EvoNote)** — *Unknown* · **2026**
   [[📝 Paper](https://arxiv.org/abs/2606.02215)]
 

@@ -88,6 +88,9 @@ Entries in the following sections are tagged **`[Core]`** or **`[Related·X]`**.
 
 ### 2026
 
+- [Core] (*arXiv'26_06*) **Baichuan-M4: A Clinical-Grade Medical Agent System for Continuous Care**
+  [[📝 Paper](https://arxiv.org/abs/2606.08982)]
+
 - [Related·B] (*arXiv'26_06*) **An Infectious Disease Spread Simulation Based on Large Language Model Decision Making**
   [[📝 Paper](https://arxiv.org/abs/2606.06360)]
 
@@ -1159,6 +1162,9 @@ Entries in the following sections are tagged **`[Core]`** or **`[Related·X]`**.
 > Each entry carries the same **`[Core]`** / **`[Related·X]`** tag as in the time-ordered list (see [Tags](#-tags)).
 
 ### Medical Diagnosis and Consultation
+
+- [Core] (*arXiv'26_06*) **Baichuan-M4: A Clinical-Grade Medical Agent System for Continuous Care**
+  [[📝 Paper](https://arxiv.org/abs/2606.08982)]
 
 - [Core] (*arXiv'26_06*) **Traj-Evolve: A Self-Evolving Multi-Agent System for Patient Trajectory Modeling in Lung Cancer Early Detection**
   [[📝 Paper](https://arxiv.org/abs/2606.02812)]
