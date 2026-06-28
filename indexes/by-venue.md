@@ -495,6 +495,9 @@ Regenerate with: `python scripts/sort_papers_readme.py --write-indexes`
 - (2026) **Tool-Genesis: A Task-Driven Tool Creation Benchmark for Self-Evolving Language Agent**
 [[📝 Paper](https://arxiv.org/pdf/2603.05578)]
 
+- (2026) **Toward Vibe Medicine: A Self-Evolving Multi-Agent Framework for Clinical Decision Support**
+[[📝 Paper](https://arxiv.org/abs/2606.15504)] [[DOI](https://doi.org/10.1016/j.metrad.2026.100223)]
+
 - (2026) **Towards Trustworthy Agentic AI: A Comprehensive Survey of Safety, Robustness, Privacy, and System Security**
 [[📝 Paper](https://arxiv.org/abs/2605.23989)]
 

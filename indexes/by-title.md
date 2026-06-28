@@ -630,6 +630,9 @@ Regenerate with: `python scripts/sort_papers_readme.py --write-indexes`
 - **Tool-Genesis: A Task-Driven Tool Creation Benchmark for Self-Evolving Language Agent** — *Unknown* · **2026**
   [[📝 Paper](https://arxiv.org/pdf/2603.05578)]
 
+- **Toward Vibe Medicine: A Self-Evolving Multi-Agent Framework for Clinical Decision Support** — *Unknown* · **2026**
+  [[📝 Paper](https://arxiv.org/abs/2606.15504)] [[DOI](https://doi.org/10.1016/j.metrad.2026.100223)]
+
 - **Towards Conversational Diagnostic AI (AMIE)** — *Unknown* · **2024**
   [[📝 Paper](https://www.nature.com/articles/s41586-025-08866-7)]
 

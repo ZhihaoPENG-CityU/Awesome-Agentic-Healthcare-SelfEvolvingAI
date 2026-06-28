@@ -88,6 +88,9 @@ Entries in the following sections are tagged **`[Core]`** or **`[Related·X]`**.
 
 ### 2026
 
+- [Core] (*Meta-Radiology'26*) **Toward Vibe Medicine: A Self-Evolving Multi-Agent Framework for Clinical Decision Support**
+  [[📝 Paper](https://arxiv.org/abs/2606.15504)] [[DOI](https://doi.org/10.1016/j.metrad.2026.100223)]
+
 - [Core] (*arXiv'26_06*) **Baichuan-M4: A Clinical-Grade Medical Agent System for Continuous Care**
   [[📝 Paper](https://arxiv.org/abs/2606.08982)]
 
@@ -1455,6 +1458,9 @@ Entries in the following sections are tagged **`[Core]`** or **`[Related·X]`**.
   [[📝 Paper](https://ijisae.org/index.php/IJISAE/article/view/7793)]
 
 ### Clinical Decision-Making and Trial Optimization
+
+- [Core] (*Meta-Radiology'26*) **Toward Vibe Medicine: A Self-Evolving Multi-Agent Framework for Clinical Decision Support**
+  [[📝 Paper](https://arxiv.org/abs/2606.15504)] [[DOI](https://doi.org/10.1016/j.metrad.2026.100223)]
 
 - [Core] (*arXiv'26_06*) **Traj-Evolve: A Self-Evolving Multi-Agent System for Patient Trajectory Modeling in Lung Cancer Early Detection**
   [[📝 Paper](https://arxiv.org/abs/2606.02812)]
