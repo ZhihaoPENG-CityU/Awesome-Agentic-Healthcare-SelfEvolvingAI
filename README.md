@@ -624,6 +624,9 @@ Entries in the following sections are tagged **`[Core]`** or **`[Related·X]`**.
 - [Core] (*bioRxiv'25_10*) **LabOS: The AI-XR Co-Scientist That Sees and Works With Humans**
   [[📝 Paper](https://www.biorxiv.org/content/10.1101/2025.10.16.679418v2)] [[💻 Code](https://github.com/zaixizhang/LabOS)] [[🌐 Project](https://ai4labos.com/)]
 
+- [Core] (*arXiv'25_10*) **GenCellAgent: Generalizable, Training-Free Cellular Image Segmentation via Large Language Model Agents**
+  [[📝 Paper](https://arxiv.org/abs/2510.13896)]
+
 - [Related·A] (*ICLR'26_10*) **EvoTest: Evolutionary Test-Time Learning for Self-Improving Agentic Systems**
   [[📝 Paper](https://arxiv.org/abs/2510.13220)] [[💻 Code](https://github.com/yf-he/EvoTest)]
 
@@ -1444,6 +1447,9 @@ Entries in the following sections are tagged **`[Core]`** or **`[Related·X]`**.
 
 - [Core] (*bioRxiv'25_10*) **LabOS: The AI-XR Co-Scientist That Sees and Works With Humans**
   [[📝 Paper](https://www.biorxiv.org/content/10.1101/2025.10.16.679418v2)] [[💻 Code](https://github.com/zaixizhang/LabOS)] [[🌐 Project](https://ai4labos.com/)]
+
+- [Core] (*arXiv'25_10*) **GenCellAgent: Generalizable, Training-Free Cellular Image Segmentation via Large Language Model Agents**
+  [[📝 Paper](https://arxiv.org/abs/2510.13896)]
 
 - [Related·B] (*arXiv'25_10*) **RareAgent: Self-Evolving Reasoning for Drug Repurposing in Rare Diseases**
   [[📝 Paper](https://arxiv.org/abs/2510.05764)]

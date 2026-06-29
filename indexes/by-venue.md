@@ -261,6 +261,9 @@ Regenerate with: `python scripts/sort_papers_readme.py --write-indexes`
 - (2026) **GenericAgent: A Token-Efficient Self-Evolving LLM Agent via Contextual Information Density Maximization**
 [[📝 Paper](https://arxiv.org/abs/2604.17091)] [[💻 Code](https://github.com/lsdefine/GenericAgent)]
 
+- (2025) **GenCellAgent: Generalizable, Training-Free Cellular Image Segmentation via Large Language Model Agents**
+[[📝 Paper](https://arxiv.org/abs/2510.13896)]
+
 - (2026) **GraphFlow: An Architecture for Formally Verifiable Visual Workflows Enabling Reliable Agentic AI Automation**
 [[📝 Paper](https://arxiv.org/abs/2605.14968)]
 
