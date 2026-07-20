@@ -10,6 +10,9 @@ Regenerate with: `python scripts/sort_papers_readme.py --write-indexes`
 - **A multi-agent framework combining large language models with medical flowcharts for self-triage** — *Unknown* · **2026**
   [[📝 Paper](https://www.nature.com/articles/s44360-026-00112-2)] [[💻 Code](https://github.com/digihealthucsd/Multi-agent-self-triage-system)]
 
+- **A Multi-Agent System for Autonomous, Fine-Tuning-Free Clinical Symptom Detection: Development and Validation Study** — *Unknown* · **2026**
+  [[📝 Paper](https://arxiv.org/abs/2607.12886)]
+
 - **A Safety-Aware Role-Orchestrated Multi-Agent LLM Framework for Behavioral Health Communication Simulation** — *Unknown* · **2026**
   [[📝 Paper](https://arxiv.org/abs/2604.00249)]
 

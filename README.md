@@ -88,6 +88,9 @@ Entries in the following sections are tagged **`[Core]`** or **`[Related·X]`**.
 
 ### 2026
 
+- [Related·B] (*arXiv'26_07*) **A Multi-Agent System for Autonomous, Fine-Tuning-Free Clinical Symptom Detection: Development and Validation Study**
+  [[📝 Paper](https://arxiv.org/abs/2607.12886)]
+
 - [Core] (*Meta-Radiology'26*) **Toward Vibe Medicine: A Self-Evolving Multi-Agent Framework for Clinical Decision Support**
   [[📝 Paper](https://arxiv.org/abs/2606.15504)] [[DOI](https://doi.org/10.1016/j.metrad.2026.100223)]
 
@@ -1168,6 +1171,9 @@ Entries in the following sections are tagged **`[Core]`** or **`[Related·X]`**.
 > Each entry carries the same **`[Core]`** / **`[Related·X]`** tag as in the time-ordered list (see [Tags](#-tags)).
 
 ### Medical Diagnosis and Consultation
+
+- [Related·B] (*arXiv'26_07*) **A Multi-Agent System for Autonomous, Fine-Tuning-Free Clinical Symptom Detection: Development and Validation Study**
+  [[📝 Paper](https://arxiv.org/abs/2607.12886)]
 
 - [Core] (*arXiv'26_06*) **Baichuan-M4: A Clinical-Grade Medical Agent System for Continuous Care**
   [[📝 Paper](https://arxiv.org/abs/2606.08982)]
