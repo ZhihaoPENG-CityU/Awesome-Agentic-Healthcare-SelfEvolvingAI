@@ -538,6 +538,9 @@ Regenerate with: `python scripts/sort_papers_readme.py --write-indexes`
 - **RareAgent: Self-Evolving Reasoning for Drug Repurposing in Rare Diseases** — *Unknown* · **2025**
   [[📝 Paper](https://arxiv.org/abs/2510.05764)]
 
+- **ReclAIm: A Multi-Agent Framework for Monitoring and Correcting Performance Decline in Medical Imaging AI** — *Unknown* · **2025**
+  [[📝 Paper](https://arxiv.org/abs/2510.17004)] [[DOI](https://doi.org/10.1148/ryai.250923)]
+
 - **Reflect to Inform: Boosting Multimodal Reasoning via Information-Gain-Driven Verification** — *Unknown* · **2026**
   [[📝 Paper](https://arxiv.org/pdf/2603.26348v1)]
 

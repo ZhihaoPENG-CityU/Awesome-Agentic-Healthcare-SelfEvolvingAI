@@ -633,6 +633,9 @@ Regenerate with: `python scripts/sort_papers_readme.py --write-indexes`
 - (2025) **RareAgent: Self-Evolving Reasoning for Drug Repurposing in Rare Diseases**
 [[📝 Paper](https://arxiv.org/abs/2510.05764)]
 
+- (2025) **ReclAIm: A Multi-Agent Framework for Monitoring and Correcting Performance Decline in Medical Imaging AI**
+[[📝 Paper](https://arxiv.org/abs/2510.17004)] [[DOI](https://doi.org/10.1148/ryai.250923)]
+
 - (2025) **Self-Evolving LLM Ecosystems for Precision Medicine**
 [[📝 Paper](https://ijisae.org/index.php/IJISAE/article/view/7793)]
 

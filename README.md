@@ -624,6 +624,9 @@ Entries in the following sections are tagged **`[Core]`** or **`[Related·X]`**.
 - [Core] (*arXiv'25_10*) **Evolving Diagnostic Agents in a Virtual Clinical Environment**
   [[📝 Paper](https://arxiv.org/abs/2510.24654)]
 
+- [Core] (*Radiology: Artificial Intelligence'26_10*) **ReclAIm: A Multi-Agent Framework for Monitoring and Correcting Performance Decline in Medical Imaging AI**
+  [[📝 Paper](https://arxiv.org/abs/2510.17004)] [[DOI](https://doi.org/10.1148/ryai.250923)]
+
 - [Core] (*bioRxiv'25_10*) **LabOS: The AI-XR Co-Scientist That Sees and Works With Humans**
   [[📝 Paper](https://www.biorxiv.org/content/10.1101/2025.10.16.679418v2)] [[💻 Code](https://github.com/zaixizhang/LabOS)] [[🌐 Project](https://ai4labos.com/)]
 
@@ -1350,6 +1353,9 @@ Entries in the following sections are tagged **`[Core]`** or **`[Related·X]`**.
 
 - [Core] (*arXiv'26_01*) **Route, Retrieve, Reflect, Repair (R⁴): Self-Improving Agentic Framework for Visual Detection and Linguistic Reasoning in Medical Imaging**
   [[📝 Paper](https://arxiv.org/abs/2601.08192)] [[💻 Code](https://github.com/faiyazabdullah/MultimodalMedAgent)]
+
+- [Core] (*Radiology: Artificial Intelligence'26_10*) **ReclAIm: A Multi-Agent Framework for Monitoring and Correcting Performance Decline in Medical Imaging AI**
+  [[📝 Paper](https://arxiv.org/abs/2510.17004)] [[DOI](https://doi.org/10.1148/ryai.250923)]
 
 - [Core] (*arXiv'25_09*) **A Co-evolving Agentic AI System for Medical Imaging Analysis (TissueLab)**
   [[📝 Paper](https://arxiv.org/abs/2509.20279)] [[🖥️ Platform](https://tissuelab.org)]
