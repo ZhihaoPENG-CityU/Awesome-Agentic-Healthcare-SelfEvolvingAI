@@ -88,6 +88,9 @@ Entries in the following sections are tagged **`[Core]`** or **`[Related·X]`**.
 
 ### 2026
 
+- [Core] (*ACM MM'26_07*) **OPERA: Offline Policy-guided Expert Routing and Adaptation for Universal Biomedical Image Analysis**
+  [[📝 Paper](https://arxiv.org/abs/2607.25108)] [[DOI](https://doi.org/10.1145/3767308.3836169)] [[💻 Code](https://github.com/HUANGLIZI/OPERA)]
+
 - [Related·B] (*arXiv'26_07*) **A Multi-Agent System for Autonomous, Fine-Tuning-Free Clinical Symptom Detection: Development and Validation Study**
   [[📝 Paper](https://arxiv.org/abs/2607.12886)]
 
@@ -1302,6 +1305,9 @@ Entries in the following sections are tagged **`[Core]`** or **`[Related·X]`**.
   [[📝 Paper](https://arxiv.org/pdf/2502.08916)]
 
 ### Medical Imaging and Theranostics
+
+- [Core] (*ACM MM'26_07*) **OPERA: Offline Policy-guided Expert Routing and Adaptation for Universal Biomedical Image Analysis**
+  [[📝 Paper](https://arxiv.org/abs/2607.25108)] [[DOI](https://doi.org/10.1145/3767308.3836169)] [[💻 Code](https://github.com/HUANGLIZI/OPERA)]
 
 - [Core] (*arXiv'26_05*) **NeuroAgent: LLM Agents for Multimodal Neuroimaging Analysis and Research**
   [[📝 Paper](https://arxiv.org/abs/2605.06584)]

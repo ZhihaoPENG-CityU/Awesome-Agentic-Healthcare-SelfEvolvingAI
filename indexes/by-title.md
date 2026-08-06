@@ -502,6 +502,9 @@ Regenerate with: `python scripts/sort_papers_readme.py --write-indexes`
 - **OpenHospital: A Thing-in-itself Arena for Evolving and Benchmarking LLM-based Collective Intelligence** — *Unknown* · **2026**
   [[📝 Paper](https://arxiv.org/abs/2603.14771)] [[💻 Code](https://github.com/ZJU-LLMs/Agent-Kernel/tree/main/demo/OpenHospital)]
 
+- **OPERA: Offline Policy-guided Expert Routing and Adaptation for Universal Biomedical Image Analysis** — *Unknown* · **2026**
+  [[📝 Paper](https://arxiv.org/abs/2607.25108)] [[DOI](https://doi.org/10.1145/3767308.3836169)] [[💻 Code](https://github.com/HUANGLIZI/OPERA)]
+
 - **OriGene: A Self-Evolving Virtual Disease Biologist Automating Therapeutic Target Discovery** — *Unknown* · **2026**
   [[📝 Paper](https://www.biorxiv.org/content/10.1101/2025.06.03.657658v2)]
 
