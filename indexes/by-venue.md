@@ -192,6 +192,9 @@ Regenerate with: `python scripts/sort_papers_readme.py --write-indexes`
 - (2026) **Dissecting clinical reasoning failures in frontier artificial intelligence using 10,000 synthetic cases**
 [[📝 Paper](https://www.medrxiv.org/content/10.64898/2026.04.22.26351488v1)]
 
+- (2026) **DoctorAgents: Iterative Agentic Refinement for Small Clinical Temporal Data**
+[[📝 Paper](https://arxiv.org/abs/2608.05375)]
+
 - (2026) **Doctorina MedBench: End-to-End Evaluation of Agent-Based Medical AI**
 [[📝 Paper](https://arxiv.org/pdf/2603.25821)]
 
@@ -506,6 +509,9 @@ Regenerate with: `python scripts/sort_papers_readme.py --write-indexes`
 
 - (2026) **Toward Vibe Medicine: A Self-Evolving Multi-Agent Framework for Clinical Decision Support**
 [[📝 Paper](https://arxiv.org/abs/2606.15504)] [[DOI](https://doi.org/10.1016/j.metrad.2026.100223)]
+
+- (2026) **Towards Autonomous and Auditable Medical Imaging Model Development**
+[[📝 Paper](https://arxiv.org/abs/2607.10522)] [[💻 Code](https://github.com/CUHK-AIM-Group/AMID)]
 
 - (2026) **Towards Trustworthy Agentic AI: A Comprehensive Survey of Safety, Robustness, Privacy, and System Security**
 [[📝 Paper](https://arxiv.org/abs/2605.23989)]

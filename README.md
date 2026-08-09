@@ -88,11 +88,17 @@ Entries in the following sections are tagged **`[Core]`** or **`[Related·X]`**.
 
 ### 2026
 
+- [Core] (*arXiv'26_08*) **DoctorAgents: Iterative Agentic Refinement for Small Clinical Temporal Data**
+  [[📝 Paper](https://arxiv.org/abs/2608.05375)]
+
 - [Core] (*ACM MM'26_07*) **OPERA: Offline Policy-guided Expert Routing and Adaptation for Universal Biomedical Image Analysis**
   [[📝 Paper](https://arxiv.org/abs/2607.25108)] [[DOI](https://doi.org/10.1145/3767308.3836169)] [[💻 Code](https://github.com/HUANGLIZI/OPERA)]
 
 - [Related·B] (*arXiv'26_07*) **A Multi-Agent System for Autonomous, Fine-Tuning-Free Clinical Symptom Detection: Development and Validation Study**
   [[📝 Paper](https://arxiv.org/abs/2607.12886)]
+
+- [Core] (*arXiv'26_07*) **Towards Autonomous and Auditable Medical Imaging Model Development**
+  [[📝 Paper](https://arxiv.org/abs/2607.10522)] [[💻 Code](https://github.com/CUHK-AIM-Group/AMID)]
 
 - [Core] (*Meta-Radiology'26*) **Toward Vibe Medicine: A Self-Evolving Multi-Agent Framework for Clinical Decision Support**
   [[📝 Paper](https://arxiv.org/abs/2606.15504)] [[DOI](https://doi.org/10.1016/j.metrad.2026.100223)]
@@ -1309,6 +1315,9 @@ Entries in the following sections are tagged **`[Core]`** or **`[Related·X]`**.
 - [Core] (*ACM MM'26_07*) **OPERA: Offline Policy-guided Expert Routing and Adaptation for Universal Biomedical Image Analysis**
   [[📝 Paper](https://arxiv.org/abs/2607.25108)] [[DOI](https://doi.org/10.1145/3767308.3836169)] [[💻 Code](https://github.com/HUANGLIZI/OPERA)]
 
+- [Core] (*arXiv'26_07*) **Towards Autonomous and Auditable Medical Imaging Model Development**
+  [[📝 Paper](https://arxiv.org/abs/2607.10522)] [[💻 Code](https://github.com/CUHK-AIM-Group/AMID)]
+
 - [Core] (*arXiv'26_05*) **NeuroAgent: LLM Agents for Multimodal Neuroimaging Analysis and Research**
   [[📝 Paper](https://arxiv.org/abs/2605.06584)]
 
@@ -1396,6 +1405,9 @@ Entries in the following sections are tagged **`[Core]`** or **`[Related·X]`**.
   [[📝 Paper](https://arxiv.org/abs/2405.07960)] [[🌐 Project](https://agentclinic.github.io)] [[💻 Code](https://github.com/samuelschmidgall/agentclinic)]
 
 ### Biomedical and Healthcare Research
+
+- [Core] (*arXiv'26_08*) **DoctorAgents: Iterative Agentic Refinement for Small Clinical Temporal Data**
+  [[📝 Paper](https://arxiv.org/abs/2608.05375)]
 
 - [Core] (*arXiv'25_03*) **PharmAgents: Building a Virtual Pharma with Large Language Model Agents**
   [[📝 Paper](https://arxiv.org/abs/2503.22164)]

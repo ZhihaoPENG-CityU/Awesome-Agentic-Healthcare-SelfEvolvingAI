@@ -229,6 +229,9 @@ Regenerate with: `python scripts/sort_papers_readme.py --write-indexes`
 - **DoctorAgent-RL: A Multi-Agent Collaborative Reinforcement Learning System for Multi-Turn Clinical Dialogue** — *Unknown* · **2025**
   [[📝 Paper](https://arxiv.org/abs/2505.19630)]
 
+- **DoctorAgents: Iterative Agentic Refinement for Small Clinical Temporal Data** — *Unknown* · **2026**
+  [[📝 Paper](https://arxiv.org/abs/2608.05375)]
+
 - **Doctorina MedBench: End-to-End Evaluation of Agent-Based Medical AI** — *Unknown* · **2026**
   [[📝 Paper](https://arxiv.org/pdf/2603.25821)]
 
@@ -644,6 +647,9 @@ Regenerate with: `python scripts/sort_papers_readme.py --write-indexes`
 
 - **Toward Vibe Medicine: A Self-Evolving Multi-Agent Framework for Clinical Decision Support** — *Unknown* · **2026**
   [[📝 Paper](https://arxiv.org/abs/2606.15504)] [[DOI](https://doi.org/10.1016/j.metrad.2026.100223)]
+
+- **Towards Autonomous and Auditable Medical Imaging Model Development** — *Unknown* · **2026**
+  [[📝 Paper](https://arxiv.org/abs/2607.10522)] [[💻 Code](https://github.com/CUHK-AIM-Group/AMID)]
 
 - **Towards Conversational Diagnostic AI (AMIE)** — *Unknown* · **2024**
   [[📝 Paper](https://www.nature.com/articles/s41586-025-08866-7)]
