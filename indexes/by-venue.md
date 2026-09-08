@@ -75,6 +75,9 @@ Regenerate with: `python scripts/sort_papers_readme.py --write-indexes`
 - (2026) **An agentic framework for autonomous scientific discovery in cancer pathology**
 [[📝 Paper](https://www.nature.com/articles/s41591-026-04357-y)]
 
+- (2026) **An autonomous agentic workflow for clinical detection of cognitive concerns using large language models**
+[[📝 Paper](https://www.nature.com/articles/s41746-025-02324-4)] [[💻 Code](https://github.com/clai-group/Pythia)]
+
 - (2026) **An Empirical Study of Agent Skills for Healthcare: Practice, Gaps, and Governance**
 [[📝 Paper](https://arxiv.org/abs/2605.02709)]
 
@@ -138,11 +141,14 @@ Regenerate with: `python scripts/sort_papers_readme.py --write-indexes`
 - (2026) **ClawTrace: Cost-Aware Tracing for LLM Agent Skill Distillation**
 [[📝 Paper](https://arxiv.org/abs/2604.23853)] [[💻 Code](https://github.com/epsilla-cloud/clawtrace)]
 
-- (2026) **ClinicalReTrial: A Self-Evolving AI Agent for Clinical Trial Protocol Optimization**
+- (2026) **ClinicalReTrial: Clinical Trial Redesign with Self-Evolving Agents**
 [[📝 Paper](https://arxiv.org/abs/2601.00290)]
 
 - (2026) **ClinSeekAgent: Automating Multimodal Evidence Seeking for Agentic Clinical Reasoning**
 [[📝 Paper](https://arxiv.org/abs/2605.20176)]
+
+- (2026) **Closed-Loop Quality Assurance for Production Clinical AI Documentation**
+[[📝 Paper](https://www.medrxiv.org/content/10.64898/2026.05.27.26353977v1)]
 
 - (2026) **Closing Reasoning Gaps in Clinical Agents with Differential Reasoning Learning**
 [[📝 Paper](https://arxiv.org/abs/2602.09945)]
@@ -243,6 +249,9 @@ Regenerate with: `python scripts/sort_papers_readme.py --write-indexes`
 - (2026) **FastOMOP: A Foundational Architecture for Reliable Agentic Real-World Evidence Generation on OMOP CDM Data**
 [[📝 Paper](https://arxiv.org/abs/2604.24572)] [[💻 Code](https://github.com/fastomop)]
 
+- (2026) **FedEHR-Agents: Federated Agentic Optimization for Automated EHR Modeling**
+[[📝 Paper](https://arxiv.org/abs/2608.27856)]
+
 - (2026) **First, Do No Harm (With LLMs): Mitigating Racial Bias via Agentic Workflows**
 [[📝 Paper](https://arxiv.org/abs/2604.18038)]
 
@@ -324,6 +333,9 @@ Regenerate with: `python scripts/sort_papers_readme.py --write-indexes`
 - (2026) **MAGE: Multi-Agent Self-Evolution with Co-Evolutionary Knowledge Graphs**
 [[🌐 arXiv](https://arxiv.org/search/?searchtype=all&query=MAGE%3A%20Multi-Agent%20Self-Evolution%20with%20Co-Evolutionary%20Knowledge%20Graphs&abstracts=show&order=-announced_date_first&size=25)]
 
+- (2026) **MARLA: An Autonomous Agent for Medical AI Research and Development**
+[[📝 Paper](https://www.medrxiv.org/content/10.64898/2026.08.21.26361049v2)]
+
 - (2026) **MASPO: Joint Prompt Optimization for LLM-based Multi-Agent Systems**
 [[📝 Paper](https://arxiv.org/abs/2605.06623)] [[💻 Code](https://github.com/wangzx1219/MASPO)]
 
@@ -342,8 +354,14 @@ Regenerate with: `python scripts/sort_papers_readme.py --write-indexes`
 - (2026) **Med-Evo: Test-time Self-evolution for Medical Multimodal Large Language Models**
 [[📝 Paper](https://arxiv.org/abs/2603.07443)]
 
+- (2026) **MedClaw: Heuristic Agent Harness for Long-Horizon Surgical Video Reasoning**
+[[📝 Paper](https://arxiv.org/abs/2608.14015)] [[🌐 Project](https://fyycs.github.io/medclaw/)]
+
 - (2026) **MediHive: A Decentralized Agent Collective for Medical Question Answering**
 [[📝 Paper](https://arxiv.org/abs/2603.27150)]
+
+- (2026) **MediSkill-Evo: Process-Constrained Self-Evolution for Evidence-Grounded Clinical Interaction**
+[[📝 Paper](https://arxiv.org/abs/2608.23397)] [[💻 Code](https://anonymous.4open.science/r/mediskill-evo_anonymous-68E7/)]
 
 - (2026) **MedMemoryBench: Benchmarking Agent Memory in Personalized Healthcare**
 [[📝 Paper](https://arxiv.org/abs/2605.11814)]
@@ -513,6 +531,9 @@ Regenerate with: `python scripts/sort_papers_readme.py --write-indexes`
 - (2026) **Towards Autonomous and Auditable Medical Imaging Model Development**
 [[📝 Paper](https://arxiv.org/abs/2607.10522)] [[💻 Code](https://github.com/CUHK-AIM-Group/AMID)]
 
+- (2026) **Towards Fully Automated Medical Imaging Code Generation via Validation-based Context Engineering**
+[[📝 Paper](https://arxiv.org/abs/2608.29016)]
+
 - (2026) **Towards Trustworthy Agentic AI: A Comprehensive Survey of Safety, Robustness, Privacy, and System Security**
 [[📝 Paper](https://arxiv.org/abs/2605.23989)]
 
@@ -588,8 +609,8 @@ Regenerate with: `python scripts/sort_papers_readme.py --write-indexes`
 - (2025) **HealthAlign-Agents: Self-Play Reflective Prompting for Culturally Aligned Health Communication in Low-Resource Languages**
 [[📝 Paper](https://neurips.cc/virtual/2025/135933)]
 
-- (2025) **HealthFlow: A Self-Evolving AI Agent with Meta Planning for Autonomous Healthcare Research**
-[[📝 Paper](https://arxiv.org/abs/2508.02621)] [[💻 Code](https://github.com/yhzhu99/HealthFlow)]
+- (2025) **HealthFlow: automating electronic health record analysis via a strategically self-evolving multi-agent framework**
+[[📝 Paper](https://arxiv.org/abs/2508.02621)] [[DOI](https://doi.org/10.1038/s41746-026-03097-0)] [[💻 Code](https://github.com/yhzhu99/HealthFlow)]
 
 - (2025) **Integrating Dynamical Systems Learning with Foundational Models: A Meta-Evolutionary AI Framework for Clinical Trials**
 [[📝 Paper](https://arxiv.org/abs/2506.14782)]
@@ -603,14 +624,17 @@ Regenerate with: `python scripts/sort_papers_readme.py --write-indexes`
 - (2025) **Language Agents for Hypothesis-driven Clinical Decision Making with Reinforcement Learning**
 [[📝 Paper](https://arxiv.org/abs/2506.13474)] [[🌐 ICLR](https://iclr.cc/virtual/2026/poster/10011252)] [[💻 Code](https://github.com/dharouni/LA-CDM)]
 
+- (2025) **Learning to Be A Doctor: Searching for Effective Medical Agent Architectures**
+[[📝 Paper](https://arxiv.org/abs/2504.11301)] [[DOI](https://doi.org/10.1145/3746027.3755559)]
+
 - (2025) **MACD: Multi-Agent Clinical Diagnosis with Self-Learned Knowledge for LLM**
 [[📝 Paper](https://arxiv.org/abs/2509.20067)]
 
 - (2025) **MAP: Evaluation and Multi-Agent Enhancement of Large Language Models for Inpatient Pathways**
 [[📝 Paper](https://arxiv.org/abs/2503.13205)]
 
-- (2025) **MDTeamGPT: A Self-Evolving LLM-based Multi-Agent Framework for Multi-Disciplinary Team Medical Consultation**
-[[📝 Paper](https://arxiv.org/abs/2503.13856)] [[🌐 Project](https://kaichennj.github.io/MDTeamGPT-Main/)]
+- (2025) **MDTeamGPT: Mitigating Context Collapse and Enabling Self-Evolution in Medical Multi-Agent Reasoning**
+[[📝 Paper](https://arxiv.org/abs/2503.13856)] [[DOI](https://doi.org/10.18653/v1/2026.findings-acl.1427)] [[🌐 Project](https://kaichennj.github.io/MDTeamGPT-Main/)]
 
 - (2025) **MedAgent-Pro: Towards Evidence-based Multi-modal Medical Diagnosis via Reasoning Agentic Workflow**
 [[📝 Paper](https://arxiv.org/abs/2503.18968)] [[🌐 ICLR](https://iclr.cc/virtual/2026/poster/10008810)] [[💻 Code](https://github.com/jinlab-imvr/MedAgent-Pro)]
